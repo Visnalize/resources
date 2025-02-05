@@ -114,5 +114,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/96/golddigger.webp",
     "name": "Gold Digger FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game__game_title_",
+    "url": "### Game URL",
+    "icon": "### Game icon",
+    "name": "### Game title",
+    "creator": "### Game creator"
   }
 ]
