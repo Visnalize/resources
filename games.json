@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_gta_v",
+    "url": "GTA IV",
+    "icon": "GTAV.COM",
+    "name": "GTA V",
+    "creator": "GTA"
   }
 ]
