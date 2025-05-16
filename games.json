@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_play_together",
+    "url": "https://www.haegin.kr/game_play_together.php?lang=en",
+    "icon": "https://help-playtogether.haegin.kr/hc/en-us",
+    "name": "Play Together",
+    "creator": "-"
   }
 ]
