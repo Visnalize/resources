@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game",
+    "url": "https://www.mc.js.cool/",
+    "icon": "https://huaban.com/pins/3418200505",
+    "name": "我的精彩游戏",
+    "creator": "Mojang"
   }
 ]
