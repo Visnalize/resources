@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_minecraft_2",
+    "url": "https://www.classicube.net/server/play/",
+    "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FClassiCube&psig=AOvVaw3LCfvEIfTqTz-9H7Kp2kDh&ust=1750025483106000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPCuuY338Y0DFQAAAAAdAAAAABAE",
+    "name": "Minecraft 2",
+    "creator": "Jonty800"
   }
 ]
