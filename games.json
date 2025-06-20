@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_minecraft",
+    "url": "https://github.com/play8160/minecraft-.git",
+    "icon": "https://github.com/play8160/minecraft-.git",
+    "name": "minecraft",
+    "creator": "https://github.com/play8160/minecraft-.git"
   }
 ]
