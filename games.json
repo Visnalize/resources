@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game",
+    "url": "www free fire.com",
+    "icon": "www.garena free fire.com",
+    "name": "رأعة",
+    "creator": "garena"
   }
 ]
