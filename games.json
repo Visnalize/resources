@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_minecraft",
+    "url": "Minecraft",
+    "icon": "Free fire",
+    "name": "Minecraft",
+    "creator": "Free fire"
   }
 ]
