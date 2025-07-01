@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_roblox",
+    "url": "https://now.gg/apps/a/19900/b.html",
+    "icon": "Idk what the game icon link is",
+    "name": "Roblox",
+    "creator": "Roblox corporation"
   }
 ]
