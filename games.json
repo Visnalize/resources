@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game",
+    "url": "Play_GETTA_v5_1.0.apk",
+    "icon": "Play_GETTA_v5_1.0.998751",
+    "name": "لعبة جيم بلاي ستيشن",
+    "creator": "جيم بلاي ستيشن"
   }
 ]
