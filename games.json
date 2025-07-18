@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_free_fire_max",
+    "url": "Free fire max",
+    "icon": "Free fire max",
+    "name": "Free fire max",
+    "creator": "Garena"
   }
 ]
