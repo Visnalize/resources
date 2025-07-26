@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_sonic_exe",
+    "url": "https://gamejolt.com",
+    "icon": "Sonic exe",
+    "name": "Sonic exe",
+    "creator": "Altohame"
   }
 ]
