@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_my_favourite_game",
+    "url": "https://eaglercraft.com/",
+    "icon": "https://www.rw-designer.com/icon-view/5547.png",
+    "name": "My favourite game",
+    "creator": "Artyn"
   }
 ]
