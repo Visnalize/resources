@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game",
+    "url": "https://app.api.coursme.com/client/sandbox/run/e6207c48-e793-4bbe-b533-7294da683e00",
+    "icon": "https://app.api.coursme.com/client/sandbox/run/e6207c48-e793-4bbe-b533-7294da683e00",
+    "name": "Змейка",
+    "creator": "Дмитрий Иванович и Кодик"
   }
 ]
