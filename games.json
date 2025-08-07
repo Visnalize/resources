@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game",
+    "url": "https://yandex.ru/games/app/238773#app-id=238773&catalog-session-uid=catalog-779e1314-5994-54f3-912b-d072b4af0539-1754573089626-e3c2&rtx-reqid=729891679225645021&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22tag%22%7D&redir-data=%7B%22block%22%3A%22tag_250%22%2C%22block_index%22%3A0%2C%22card%22%3A%22s%22%2C%22col%22%3A5%2C%22first_screen%22%3A1%2C%22page%22%3A%22tag_250%22%2C%22rn%22%3A973150174%2C%22row%22%3A0%2C%22rtx_reqid%22%3A%22729891679225645021%22%2C%22same_block_index%22%3A0%2C%22wrapper%22%3A%22grid-list%22%2C%22request_id%22%3A%221754573089324331-1668050324319062166-ethxjlj6qb4plbk2-BAL%22%2C%22games_request_id%22%3A%221754573089239469-1779712347338468270-balancer-l7leveler-kubr-yp-vla-86-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.ru%252Fgames%252Ftag%252Fsalon_krasoty_250%22%7D.ru",
+    "icon": "https://avatars.mds.yandex.net/i?id=e63a730798b6d9f1e992921dc0f38ebc_l-4078450-images-thumbs&n=13",
+    "name": "Три кота. спа-салон",
+    "creator": "Дмитрий Ломиворотов"
   }
 ]
