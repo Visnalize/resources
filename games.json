@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_army",
+    "url": "Games",
+    "icon": "Games",
+    "name": "Army",
+    "creator": "Army"
   }
 ]
