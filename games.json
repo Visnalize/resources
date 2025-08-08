@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_google",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "icon": "https://cdn.www.google.com/logos/2010/pacman10-i.html/icon.png",
+    "name": "Google",
+    "creator": "Marife Valdez"
   }
 ]
