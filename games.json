@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_grand_theft_auto_v",
+    "url": "official Rockstar Games website",
+    "icon": "official Rockstar Games website",
+    "name": "Grand Theft Auto V",
+    "creator": "Gta v"
   }
 ]
