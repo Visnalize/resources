@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_roblox",
+    "url": "https://www.roblox.com/login",
+    "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F27127499-roblox-logo-png-roblox-icon-transparent-png&psig=AOvVaw0z93WLT8tWu8xjQ_S3VOhc&ust=1755010711999000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjCtsOCg48DFQAAAAAdAAAAABAE",
+    "name": "roblox",
+    "creator": "David Baszucki"
   }
 ]
