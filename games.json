@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_yes",
+    "url": "Free fire max",
+    "icon": "3.3",
+    "name": "Yes",
+    "creator": "Greana"
   }
 ]
