@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_arbolabc_com",
+    "url": "https://lichess.org/es",
+    "icon": "https://arbolabc.com/",
+    "name": "https://arbolabc.com/",
+    "creator": "Rafael"
   }
 ]
