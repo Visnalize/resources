@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_free_fire",
+    "url": "play store free fire game",
+    "icon": "https://free-fire-battlegrounds.en.softonic.com/android",
+    "name": "free fire",
+    "creator": "free fire"
   }
 ]
