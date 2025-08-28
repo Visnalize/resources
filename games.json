@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_free_fire",
+    "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "icon": "https://game-icons.net/icons/ffffff/000000/1x1/lorc/game-controller.svg",
+    "name": "Free fire",
+    "creator": "Singapore"
   }
 ]
