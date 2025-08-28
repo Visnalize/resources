@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_game",
+    "url": "Gameloft.com",
+    "icon": "Gameloft.com",
+    "name": "Game",
+    "creator": "Software"
   }
 ]
