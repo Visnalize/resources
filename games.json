@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_dos_zone",
+    "url": "https://dos.zone",
+    "icon": "https://e7.pngegg.com/pngimages/501/708/png-clipart-ms-dos-microsoft-disk-operating-system-microsoft-text-logo.png",
+    "name": "DOS Zone",
+    "creator": "Aimin"
   }
 ]
