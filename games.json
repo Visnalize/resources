@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_lagged_com_en_g_sonic_run",
+    "url": "https://lagged.com/en/g/sonic-run",
+    "icon": "https://lagged.com/en/g/sonic-run",
+    "name": "https://lagged.com/en/g/sonic-run",
+    "creator": "https://lagged.com/en/g/sonic-run"
   }
 ]
