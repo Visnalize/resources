@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_appetize_io_embed_demo_device_iphone8_osversion_16_2_toolbar_true",
+    "url": "https://youtube.com/shorts/08lXXRRN6V4?si=BnV6VsjOs3UW-ZaU",
+    "icon": "https://m.youtube.com/",
+    "name": "https://appetize.io/embed/demo?device=iphone8&osVersion=16.2&toolbar=true",
+    "creator": "https://appetize.io/embed/demo?device=iphone8&osVersion=16.2&toolbar=true"
   }
 ]
