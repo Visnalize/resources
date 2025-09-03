@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_multimc",
+    "url": "https://multimc-free-launcher-for-minecraft.softonic.com.br/?_gl=1*11oahvq*_gcl_au*MTM5MTY5NDgzNS4xNzU2MDU1MjU1",
+    "icon": "https://multimc-free-launcher-for-minecraft.softonic.com.br/?_gl=1*11oahvq*_gcl_au*MTM5MTY5NDgzNS4xNzU2MDU1MjU1",
+    "name": "MultiMc",
+    "creator": "MultiMc laucher"
   }
 ]
