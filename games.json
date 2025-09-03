@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_henrystickmin_fleeing_da_airship",
+    "url": "https://www.crazygames.com/game/fleeing-the-complex",
+    "icon": "https://imgs.search.brave.com/5L8PiWHP8b6yHsmPztiAADYUXfOAY6t69-PKriLq2Gk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bXktdGFrZS1vbi1o/ZW5yeXMtYWZmaWxp/YXRpb25zLXdpdGgt/ZWFjaC1mYWN0aW9u/LWluLWFsbC1jdG0t/djAtc2xydmhkdTho/cmxmMS5wbmc_d2lk/dGg9NjQwJmNyb3A9/c21hcnQmYXV0bz13/ZWJwJnM9NDhkYjkw/NmFlMTU3OTZiNzM2/YTlkNWZkZDZkYzk0/MzJhNWJjNmRjNw",
+    "name": "henrystickmin fleeing da airship",
+    "creator": "puffballs united"
   }
 ]
