@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_amogus",
+    "url": "https://impostor.io",
+    "icon": "https://www.rw-designer.com/icon-image/21508-256x256x32.png",
+    "name": "Amogus",
+    "creator": "impostor.io"
   }
 ]
