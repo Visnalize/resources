@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_op",
+    "url": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+    "icon": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+    "name": "Op",
+    "creator": "My"
   }
 ]
