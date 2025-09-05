@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_slither_io",
+    "url": "slither.com/io",
+    "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQ8z4RFe7_CdwMA3BEaSUidYzbZ4fefYxqvmxJiER1NCed3G1rw&psig=AOvVaw12r-Mo9y8yputW9DNb4TvQ&ust=1757197192920000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiIsebTwo8DFQAAAAAdAAAAABAE",
+    "name": "slither.io",
+    "creator": "Steve Howse"
   }
 ]
