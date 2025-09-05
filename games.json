@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_srb2",
+    "url": "https://www.srb2.org/",
+    "icon": "https://cdn.my-web-game.com/srb2org-banner.png",
+    "name": "Srb2",
+    "creator": "Srb2"
   }
 ]
