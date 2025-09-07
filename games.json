@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_docs_github_com_articles_configuring_two_factor_authentication_recovery_methods",
+    "url": "https://github.com/settings/security",
+    "icon": "https://docs.github.com/articles/configuring-two-factor-authentication",
+    "name": "https://docs.github.com/articles/configuring-two-factor-authentication-recovery-methods",
+    "creator": "Pubg"
   }
 ]
