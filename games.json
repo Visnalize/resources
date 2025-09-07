@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_free_fire_mxa",
+    "url": "Free fire mxa",
+    "icon": "Free fire mxa",
+    "name": "Free fire mxa",
+    "creator": "Free fire mxa"
   }
 ]
