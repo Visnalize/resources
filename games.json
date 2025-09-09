@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_nice",
+    "url": "Web game",
+    "icon": "Web game",
+    "name": "Nice",
+    "creator": "Gerana"
   }
 ]
