@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_beamng_drive",
+    "url": "https://www.beamng.com/",
+    "icon": "https://images.steamusercontent.com/ugc/2467485005087367461/87DBE8CFD29405CA01711E0165BA4FC23BBFE7B0/",
+    "name": "BeamNG. Drive",
+    "creator": "Kirill288k"
   }
 ]
