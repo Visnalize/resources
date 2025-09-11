@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_minecraft_1_12_2_eaglercraft",
+    "url": "https://eaglercraft.com/mc/1.12.2-wasm/",
+    "icon": "https://th.bing.com/th/id/OIP.4Ux1jR-sKngWyqS4iavKkwHaII?w=164&h=182&c=7&r=0&o=7&pid=1.7&rm=3",
+    "name": "Minecraft 1.12.2 (Eaglercraft",
+    "creator": "Lax1dude and Ayunami2000"
   }
 ]
