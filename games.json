@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_www_roblox_com",
+    "url": "https://web.archive.org/web/20130129024925/http://www.roblox.com/Landing/Animated#",
+    "icon": "https://web.archive.org/web/20140129024925im_/http://images.rbxcdn.com/9b792179d6034ff15284a289ffedec15.png",
+    "name": "www.ROBLOX.com",
+    "creator": "ROBLOX corporation"
   }
 ]
