@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_doodle_baseball",
+    "url": "https://doodlecricket.github.io/doodle-baseball",
+    "icon": "https://doodlecricket.github.io/doodle-baseball/icons/android-icon-192x192.png",
+    "name": "Doodle Baseball",
+    "creator": "asissuthar"
   }
 ]
