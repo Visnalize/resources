@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game__5",
+    "url": "T",
+    "icon": "T",
+    "name": "جاتا 5",
+    "creator": "روكستار"
   }
 ]
