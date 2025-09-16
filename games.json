@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_warcraft_3_reforge",
+    "url": "https://warcraft3.blizzard.com/en-us/",
+    "icon": "WARCRAFT 3 REDORGE",
+    "name": "Warcraft 3 Reforge",
+    "creator": "Blizzard"
   }
 ]
