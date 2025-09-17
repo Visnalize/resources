@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_call_of_duty_warzone",
+    "url": "Call of duty",
+    "icon": "Call of duty",
+    "name": "Call of duty. Warzone",
+    "creator": "Call of duty warzone"
   }
 ]
