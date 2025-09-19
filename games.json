@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_indian_bike_3d_game",
+    "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes",
+    "icon": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes",
+    "name": "Indian bike 3d game",
+    "creator": "Rohit gamming studio"
   }
 ]
