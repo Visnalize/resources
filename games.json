@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_sprunki",
+    "url": "https://poki.com/ar/g/sprunki",
+    "icon": "https://poki.com/ar/g/sprunki/icon.png",
+    "name": "Sprunki",
+    "creator": "NyankoBfLol"
   }
 ]
