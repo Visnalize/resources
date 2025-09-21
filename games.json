@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_freefire_max",
+    "url": "Garena",
+    "icon": "Freefire max",
+    "name": "Freefire max",
+    "creator": "Worst,lee"
   }
 ]
