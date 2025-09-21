@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_squad_busters",
+    "url": "https://www.squad bustets.com",
+    "icon": "https://www.squad busters.com",
+    "name": "Squad busters",
+    "creator": "Superssel"
   }
 ]
