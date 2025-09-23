@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_tlauncher",
+    "url": "https://tlauncher.org/",
+    "icon": "https://img.icons8.com/?size=96&id=lGj4QxyFdYNz&format=png",
+    "name": "Tlauncher",
+    "creator": "Tlauncher inc."
   }
 ]
