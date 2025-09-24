@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_awesome_game",
+    "url": "Pubg.com",
+    "icon": "Pubg.com",
+    "name": "Awesome game",
+    "creator": "Chang han kim"
   }
 ]
