@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_inkball",
+    "url": "https://demo.mat.dev/inkball/",
+    "icon": "https://dn710001.ca.archive.org/0/items/inkballgame/bandicam%202023-11-04%2022-30-46-569.png",
+    "name": "Inkball",
+    "creator": "Mat-sz"
   }
 ]
