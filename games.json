@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_among_us",
+    "url": "His games.org/search/among us",
+    "icon": "Icone.png",
+    "name": "Among us",
+    "creator": "Me"
   }
 ]
