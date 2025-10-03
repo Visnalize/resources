@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_fs23",
+    "url": "Fs23",
+    "icon": "Fs23",
+    "name": "Fs23",
+    "creator": "Fs23"
   }
 ]
