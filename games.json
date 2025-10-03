@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_win7_simu_ru",
+    "url": "win7 simu.ru",
+    "icon": "win7 simu.ru",
+    "name": "win7 simu.ru",
+    "creator": "я хочу играть"
   }
 ]
