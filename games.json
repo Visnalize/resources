@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_play_google_com_store_apps_details_id_com_miniclip_eightballpool",
+    "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+    "icon": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+    "name": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+    "creator": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool"
   }
 ]
