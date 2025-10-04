@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_garena_free_fire",
+    "url": "Garena Free Fire",
+    "icon": "Free fire @Garena",
+    "name": "Garena free fire",
+    "creator": "LI XANILI"
   }
 ]
