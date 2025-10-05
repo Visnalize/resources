@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_s",
+    "url": "www.kizi.com",
+    "icon": "www.kizi.com/icon.png",
+    "name": "S",
+    "creator": "Anonimo"
   }
 ]
