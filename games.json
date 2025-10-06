@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_games",
+    "url": "https://4028.play.gamezop.com/en/game/fruity-fiesta/mKZZW9NXW?session-start-screen=home-page&int-nav=1&referrer-layout=home-gzp-originals",
+    "icon": "https://4028.play.gamezop.com/en/game/fruity-fiesta/mKZZW9NXW?session-start-screen=home-page&int-nav=1&referrer-layout=home-gzp-originals/icon.png",
+    "name": "Games",
+    "creator": "Win7 simu"
   }
 ]
