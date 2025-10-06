@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_hi",
+    "url": "Free fire",
+    "icon": "Forza horizon 5",
+    "name": "Hi",
+    "creator": "Hi"
   }
 ]
