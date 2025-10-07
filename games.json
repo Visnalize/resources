@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_cs_1_6",
+    "url": "https://play-cs.com/ru/",
+    "icon": "http:/icon.png",
+    "name": "cs 1.6",
+    "creator": "walve"
   }
 ]
