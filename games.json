@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_easy_typing_a_letter",
+    "url": "Chandrashekhar",
+    "icon": "Typing",
+    "name": "Easy typing a letter",
+    "creator": "Typing"
   }
 ]
