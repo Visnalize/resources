@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_jouer_a_minecraft_1_8_8",
+    "url": "https://eaglercraft.com/mc/1.8.8?userscript=flameddogo99-eaglermobile.js",
+    "icon": "https://www.google.com/search?q=image+minecraft&oq=image+minecraft&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQRRg7MgYIAhBFGDsyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgAQyBwgKEAAYgAQyBwgLEAAYgAQyBwgMEAAYgAQyBwgNEAAYgAQyBwgOEAAYgATSAQgzMzg3ajBqN6gCFLACAfEFQpByTjafWPo&client=tablet-android-incar&sourceid=chrome-mobile&ie=UTF-8#vhid=vq8NOcnvh-H8mM&vssid=_p8braK6GPJ7NkdUP6dDcmA0_35",
+    "name": "Jouer a Minecraft 1.8.8 !!",
+    "creator": "Ayunami"
   }
 ]
