@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_snow_rider_3d",
+    "url": "https://drippy-cat.github.io/snowrider3D/",
+    "icon": "https://drippy-cat.github.io/snowrider3D/",
+    "name": "Snow Rider 3D",
+    "creator": "drippy cat"
   }
 ]
