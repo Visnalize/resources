@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_delete_mot_with_please_eat",
+    "url": "DELETE mot with please eat",
+    "icon": "DELETE mot with please eat",
+    "name": "DELETE mot with please eat",
+    "creator": "be"
   }
 ]
