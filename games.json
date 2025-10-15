@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_fv",
+    "url": "FiveM https://fivem.net FiveM",
+    "icon": "FiveM https://fivem.net FiveM",
+    "name": "Fv",
+    "creator": "Fiverp"
   }
 ]
