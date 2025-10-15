@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_github_com_visnalize_resources_issues_new_choose",
+    "url": "https://github.com/Visnalize/resources/issues/new/choose",
+    "icon": "https://github.com/Visnalize/resources/issues/new/choose",
+    "name": "https://github.com/Visnalize/resources/issues/new/choose",
+    "creator": "Free fire max"
   }
 ]
