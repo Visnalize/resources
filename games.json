@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_super_cow",
+    "url": "super cow",
+    "icon": "super cow",
+    "name": "super cow",
+    "creator": "super cow"
   }
 ]
