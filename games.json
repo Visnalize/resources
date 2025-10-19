@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game__external_computer_drive0_users_smuyheyjgmx7dkjm0xtxpdex0sr1_desktop",
+    "url": "/EXTERNAL/computer/drive0/Users/sMUyHeyjGmX7dKJM0xtXPDex0sr1/Desktop",
+    "icon": "/EXTERNAL/computer/drive0/Users/sMUyHeyjGmX7dKJM0xtXPDex0sr1/Desktop",
+    "name": "/EXTERNAL/computer/drive0/Users/sMUyHeyjGmX7dKJM0xtXPDex0sr1/Desktop",
+    "creator": "Rsiop"
   }
 ]
