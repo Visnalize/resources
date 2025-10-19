@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_web_sim",
+    "url": "https://websim.com",
+    "icon": "https://websim.com",
+    "name": "Web Sim",
+    "creator": "WebSim"
   }
 ]
