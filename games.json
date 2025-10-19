@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_fc_25",
+    "url": "FC 25",
+    "icon": "Ea sport FC 25",
+    "name": "FC 25",
+    "creator": "Ea sport"
   }
 ]
