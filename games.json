@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_scary_teacher",
+    "url": "https://poki.com/en/g/scary-teacher-3d",
+    "icon": "https://poki.com/en/g/scary-teacher-3d/icon.png",
+    "name": "scary teacher",
+    "creator": "Poki"
   }
 ]
