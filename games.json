@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_bloxd_mine",
+    "url": "bloxd.io",
+    "icon": "https://img.y8.com/cloud/v2-y8-studio-banner/361/bloxd-1667995919-logo.png",
+    "name": "Bloxd.mine",
+    "creator": "Arthur"
   }
 ]
