@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_my_name_eduardo",
+    "url": "httpswww.mygame.com.br",
+    "icon": "Cuyrxjtjyfkgcmg",
+    "name": "My name Eduardo",
+    "creator": "Eduardo Costa da Cruz"
   }
 ]
