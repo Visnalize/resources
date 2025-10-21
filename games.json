@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_astra_client_1_6_0",
+    "url": "https://astraclientorg.github.io/play/js/18/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Eaglercraft.png",
+    "name": "Astra Client 1.6.0",
+    "creator": "BarneyTheGod"
   }
 ]
