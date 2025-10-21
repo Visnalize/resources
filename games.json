@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_https_poki_com_ar_g_sniper_clash_3d_fullscreen",
+    "url": "https://poki.com/ar/g/subway-surfers#fullscreen",
+    "icon": "https://poki.com/ar/g/sniper-clash-3d#fullscreen",
+    "name": "https://poki.com/ar/g/sniper-clash-3d#fullscreen",
+    "creator": "الاعاب"
   }
 ]
