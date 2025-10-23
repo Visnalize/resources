@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_doom_1993",
+    "url": "https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play",
+    "icon": "https://assets.altarofgaming.com/wp-content/uploads/2022/04/doom-1993-logo-altar-of-gaming-300x150.png",
+    "name": "Doom (1993)",
+    "creator": "id Software"
   }
 ]
