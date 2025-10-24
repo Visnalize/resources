@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_this_game_is_created_by_anas_dz",
+    "url": "anas-dz.neocities.org/AnasGameLauncher",
+    "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWNAvPNjbt24c1FJn6VheuLFhQ5CA5Y9L540TkwpfdX44E7hUzD3vyZkumGpzAFbji7R-VwTmxxlejfNNooOz9nVpmBaptSVKvbLucB0NApQpfz5BkjE2mZrjfPPVFNpZDCy7TwLeoDJ3EV8FSRDxINn-zJf4UakMSqKQINJPnk86D1tWFNi9INGBouZ2K/s320/ChatGPT%20Image%203%20juil.%202025,%2018_48_35.png",
+    "name": "This game is created by Anas-DZ",
+    "creator": "Gamex Studio"
   }
 ]
