@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game_1v4dane",
+    "url": "https://ff.garena.com/",
+    "icon": "https://ff.garena.com/",
+    "name": "1v4dane",
+    "creator": "Free fire max"
   }
 ]
