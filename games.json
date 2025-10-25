@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_cs2",
+    "url": "https://csrus.net/cs/25-cs-16-russkaya-versiya.html",
+    "icon": "https://www.google.com/search?q=cs2+icon+png&oq=cs2+icon+png+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDc3NDlqMGo3qAIQsAIB8QXR9nXE3xiA_A&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8#vhid=5fL1doDIbqz_4M&vssid=_p2D8aL-9IYS0wPAP7fbRwQk_38",
+    "name": "cs2",
+    "creator": "cs1. 6"
   }
 ]
