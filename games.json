@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game__kiskis_windows_7",
+    "url": "https://kiss-kiss.ru.aptoide.com/app",
+    "icon": "https://getkisskiss.com/",
+    "name": "«KisKis на Windows 7 – Бозии пурраи интерактивӣ»",
+    "creator": "Spin the Bottle"
   }
 ]
