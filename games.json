@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_my_super_game",
+    "url": "https://play.mc.js.cool/1.8/",
+    "icon": "https://cn.bing.com/images/search?view=detailV2&ccid=L6V07vyp&id=CBA9E2979D6C3CFA285DED94EC36AD8BA67F075E&thid=OIP.L6V07vypHuqw8d7z2T-OXgHaHa&mediaurl=https%3a%2f%2fgd-hbimg.huaban.com%2fec4dfc36fde628baf495b7481f5843367e1722fa86b68-3fQb1C_fw658&exph=658&expw=658&q=mc图片&FORM=IRPRST&ck=365720A00CEB96E9FB4B31FCE7AC42C5&selectedIndex=0&itb=0&PC=EMMX01&ajaxhist=0&ajaxserp=0",
+    "name": "My super game.",
+    "creator": "yananw"
   }
 ]
