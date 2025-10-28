@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_project_igi_1",
+    "url": "Igi 1",
+    "icon": "Igi 1",
+    "name": "Project igi 1",
+    "creator": "Project igi 1"
   }
 ]
