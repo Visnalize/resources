@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_ninja_arashi",
+    "url": "https://gamesfrog.com/games/adventure/ninja-arashi-2",
+    "icon": "https://play-lh.googleusercontent.com/fxioXJMCX_Um9MO48JRPfcKZF1o-uVl8EkwVixdwQSaVOEsLu8PjcNTlyzva-pEG4h_Q",
+    "name": "Ninja Arashi",
+    "creator": "Mb. Abdur Rahman"
   }
 ]
