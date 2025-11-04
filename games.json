@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_fire_firee_max",
+    "url": "Fire firee max",
+    "icon": "Fire firee max",
+    "name": "Fire firee max",
+    "creator": "Fire firee max"
   }
 ]
