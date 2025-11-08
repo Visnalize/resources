@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_sonic_robo_blast_2",
+    "url": "https://afd2025.srb2.org/",
+    "icon": "https://user-images.githubusercontent.com/49420637/78102987-b3beee80-73b9-11ea-81c5-865ae4c81ac5.png",
+    "name": "Sonic Robo blast 2",
+    "creator": "Sonic Team Junior"
   }
 ]
