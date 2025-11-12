@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_geo_fs_flight_simulator",
+    "url": "https://www.geo-fs.com (game: https://www.geo-fs.com/geofs.php?v=3.9)",
+    "icon": "https://mockup-api.teespring.com/v3/image/5P_pmeEZDgcuWYa1jbKAU1Hrqgc/560/560.jpg",
+    "name": "geo-fs flight simulator",
+    "creator": "Xavier Tassin"
   }
 ]
