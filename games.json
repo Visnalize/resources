@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_ex_https_cdn_my_web_game_com_icon_png",
+    "url": "ex. https;//cdn.my-web-game.com/icon.png",
+    "icon": "ex. https;//cdn.my-web-game.com/icon.png",
+    "name": "ex. https;//cdn.my-web-game.com/icon.png",
+    "creator": "ex. https;//cdn.my-web-game.com/icon.png"
   }
 ]
