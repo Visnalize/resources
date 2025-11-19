@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_game",
+    "url": "server cannot process the request because it is malformed. It should not be retried. That’s all we know",
+    "icon": "Ughghugjg",
+    "name": "Game",
+    "creator": "Game"
   }
 ]
