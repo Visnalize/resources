@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_click_the_cookie_until_you_reach_bilions",
+    "url": "https://cookieclicker.com/",
+    "icon": "https://cdn2.steamgriddb.com/icon/d4e879aca51d48e0feba3112f0d1b8cd/32/192x192.png",
+    "name": "click the cookie until you reach bilions!",
+    "creator": "Julien Thiennot"
   }
 ]
