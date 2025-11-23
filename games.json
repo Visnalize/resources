@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_www_newgrounds_com_portal_view_779798",
+    "url": "https://www.newgrounds.com/portal/view/779798",
+    "icon": "https://www.newgrounds.com/portal/view/779798",
+    "name": "https://www.newgrounds.com/portal/view/779798",
+    "creator": "https://www.newgrounds.com/portal/view/779798"
   }
 ]
