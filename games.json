@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_counter_strike_online",
+    "url": "play-cs.com",
+    "icon": "https://img.icons8.com/?size=100&id=0zCSPyEKiaTL&format=png&color=000000",
+    "name": "Counter Strike Online",
+    "creator": "cs-strikeclub0"
   }
 ]
