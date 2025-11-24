@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_forza_horizon_5",
+    "url": "Forza horizon 5 mobile download",
+    "icon": "Forza horizon 5",
+    "name": "Forza horizon 5",
+    "creator": "Forza horizon 5"
   }
 ]
