@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_m",
+    "url": "Visual Studio Code https://code.visualstudio.com Visual Studio Code",
+    "icon": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://code.visualstudio.com/&ved=2ahUKEwiyg8q6w42RAxX_UaQEHSSFL5AQFnoECA8QAQ&usg=AOvVaw15O90sm1ios8AUpw56hCml",
+    "name": "M",
+    "creator": "mohammed9"
   }
 ]
