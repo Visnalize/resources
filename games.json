@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_horror_game",
+    "url": "https://tesseron.itch.io/alternate-watch",
+    "icon": "https://i.postimg.cc/MK64WSqs/IMG-1865.jpg",
+    "name": "Horror game",
+    "creator": "Tesseron"
   }
 ]
