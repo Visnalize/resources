@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_watrbx",
+    "url": "https://watrbx.wtf",
+    "icon": "https://watrbx.wtf/icon.png",
+    "name": "Watrbx",
+    "creator": "Billypanel i think"
   }
 ]
