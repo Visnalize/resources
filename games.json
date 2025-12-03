@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_call_of_duty_mobile",
+    "url": "7378682570317683145",
+    "icon": "Call of duty mobile",
+    "name": "Call of duty mobile",
+    "creator": "https:game/ZSAnTqYyM ZSAnT7jbH"
   }
 ]
