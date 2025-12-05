@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_codename_crime_vice_city_open_world",
+    "url": "Codename crime vice city open world",
+    "icon": "Codename crime vice city open world",
+    "name": "Codename crime vice city open world",
+    "creator": "Codename crime vice city open world"
   }
 ]
