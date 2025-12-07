@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_counter_strike",
+    "url": "https://play-cs.com/es/servers",
+    "icon": "https://cdn2.steamgriddb.com/icon/9b04d152845ec0a378394003c96da594.png",
+    "name": "Counter Strike",
+    "creator": "Designers: Minh Le, Jess Cliffe, Richard Gray Developers: Valve Corporation, Nexon, Turtle Rock Studios, Hidden Path Entertainment, Ritual Entertainment Developer: Valve Corporation, Nexon, Gearbox Software, Minh Le · See more Publishers: Valve Corporation, Nexon, Gamania Digital,"
   }
 ]
