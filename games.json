@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_amongusplay_online_go_3048",
+    "url": "amongusplay.online/?go-3048",
+    "icon": "amongusplay.online/?go-3048",
+    "name": "amongusplay.online/?go-3048",
+    "creator": "amongusplay.online/?go-3048"
   }
 ]
