@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_meu_jogo_free_fire",
+    "url": "https://play.google.com",
+    "icon": "Https://ff.garena.com",
+    "name": "meu jogo free fire",
+    "creator": "111dots Studio"
   }
 ]
