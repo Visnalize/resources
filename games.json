@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_minecraft_pocket_edition_full_version_free",
+    "url": "Zalit launcher",
+    "icon": "Z",
+    "name": "Minecraft pocket edition full version free",
+    "creator": "Minecraft"
   }
 ]
