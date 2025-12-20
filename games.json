@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_my_chilli_game",
+    "url": "https://myveryownteardrop.xyz/",
+    "icon": "https://static.wikia.nocookie.net/my-td/images/6/68/Icon512x512.png/revision/latest?cb=20240908195824",
+    "name": "My chilli game",
+    "creator": "vendormint"
   }
 ]
