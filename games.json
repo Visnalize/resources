@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_ugly_sonic",
+    "url": "https://sonic-the-hedgehog-4.softonic.com.br/android",
+    "icon": "https://images.sftcdn.net/images/t_app-icon-m/p/378b2926-9b33-11e6-b2a1-00163ec9f5fa/424033173/sonic-the-hedgehog-4-icon.png",
+    "name": "Ugly sonic",
+    "creator": "Sega"
   }
 ]
