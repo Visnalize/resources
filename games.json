@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_aooni",
+    "url": "https://www.moddb.com/games/ao-oni/downloads/ao-oni-v52-english",
+    "icon": "https://www.steamgriddb.com/icon/61414",
+    "name": "Aooni",
+    "creator": "Noprops"
   }
 ]
