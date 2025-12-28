@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_fnaf_world",
+    "url": "https://gamejolt.com/games/fnaf-world/124921",
+    "icon": "https://m.gjcdn.net/game-header/1900/124921-k9fskac8-v4.webp",
+    "name": "Fnaf World",
+    "creator": "Scott Cawthon"
   }
 ]
