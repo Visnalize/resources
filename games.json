@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_games",
+    "url": "https://www.dropbox.com/scl/fi/29glzcifvoqt3rajt0ao6/Truck-Simulator-Indonesia.apk?rlkey=cdcz3h3vsgyub3e91n7gaftqp&st=1k33aei4&dl=0",
+    "icon": "https://www.dropbox.com/scl/fi/29glzcifvoqt3rajt0ao6/Truck-Simulator-Indonesia.apk?rlkey=cdcz3h3vsgyub3e91n7gaftqp&st=1k33aei4&dl=0",
+    "name": "games",
+    "creator": "Zuuks"
   }
 ]
