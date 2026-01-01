@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_sm64coopdx_com",
+    "url": "https://sm64coopdx.com/",
+    "icon": "https://sm64coopdx.com",
+    "name": "https://sm64coopdx.com/",
+    "creator": "Mason"
   }
 ]
