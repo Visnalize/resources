@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_youtube_izle",
+    "url": "m. youtube.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2WK_W8cB7I5MtELmSmJ_RB2Nrqw5G1U2sSHcdwfrmQ&s",
+    "name": "Youtube izle",
+    "creator": "Youtube izle"
   }
 ]
