@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gta_v",
+    "url": "https://www.rockstargames.com/gta-v",
+    "icon": "https://img.icons8.com/?size=100&id=c7wDY2TRDZHz&format=png&color=000000",
+    "name": "Gta v",
+    "creator": "Rockstar game"
   }
 ]
