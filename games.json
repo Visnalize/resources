@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_getting_over_it",
+    "url": "https://unblocked-games.s3.amazonaws.com/games/2023/scratch/getting-over-it-scratch/index.html",
+    "icon": "https://wordle-unlimited.io/data/image/getting-over-it.jpg",
+    "name": "Getting Over It",
+    "creator": "Scratch"
   }
 ]
