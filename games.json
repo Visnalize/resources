@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_ex_my_awesome_game",
+    "url": "ex https app gayser",
+    "icon": "Welcome to Gboard clipboard, any text that you copy will be saved here.Use the edit icon to pin, add or delete clips.",
+    "name": "ex. my Awesome game",
+    "creator": "Tank fire other tanks"
   }
 ]
