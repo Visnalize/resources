@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_crazy_cattle_3d",
+    "url": "https://crazycattle3d.io/",
+    "icon": "https://files.catbox.moe/8zxwhs.png",
+    "name": "crazy cattle 3d",
+    "creator": "crazy cattle 3d"
   }
 ]
