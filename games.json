@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_train_simulator_game",
+    "url": "Train simulator game",
+    "icon": "Train simulator game",
+    "name": "Train simulator game",
+    "creator": "Train simulator game"
   }
 ]
