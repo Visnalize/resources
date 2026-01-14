@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_www_crazygames_com_game_bridge_race",
+    "url": "https://www.crazygames.com/game/bridge-race",
+    "icon": "https://www.crazygames.com/game/bridge-race",
+    "name": "https://www.crazygames.com/game/bridge-race",
+    "creator": "https://www.crazygames.com/game/bridge-race"
   }
 ]
