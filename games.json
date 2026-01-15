@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gojo",
+    "url": "Grand Theft Auto - Vice City Stories",
+    "icon": "Grand Theft Auto - Vice City Stories",
+    "name": "GOJO",
+    "creator": "Op"
   }
 ]
