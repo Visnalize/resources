@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_snow_rider_3d",
+    "url": "https://gamebiz.com/snow-rider-3d/",
+    "icon": "https://gamebiz.com/img/snow-rider-3d.jpg",
+    "name": "Snow Rider 3d",
+    "creator": "Gamebiz"
   }
 ]
