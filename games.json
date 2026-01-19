@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gh_repo_clone_visnalize_resources",
+    "url": "gh repo clone Visnalize/resources",
+    "icon": "gh repo clone Visnalize/resources",
+    "name": "gh repo clone Visnalize/resources",
+    "creator": "gh repo clone Visnalize/resources"
   }
 ]
