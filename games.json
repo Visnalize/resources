@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_v_1_21_132",
+    "url": "Minecraftlnstaller.exe",
+    "icon": "Minecrafticon.exe",
+    "name": "V.1.21.132",
+    "creator": "Minecraft 2026"
   }
 ]
