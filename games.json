@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_planta_vs_zombies",
+    "url": "Planta vs zombies",
+    "icon": "Zombies",
+    "name": "Planta vs zombies",
+    "creator": "Cap"
   }
 ]
