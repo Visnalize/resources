@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_baldi",
+    "url": "https://yandex.com.tr/games/app/142549",
+    "icon": "https://www.steamgriddb.com/icon/14744",
+    "name": "Baldi",
+    "creator": "Baldi"
   }
 ]
