@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_github_com_visnalize_resources_git",
+    "url": "https://github.com/Visnalize/resources.git",
+    "icon": "https://github.com/Visnalize/resources.git",
+    "name": "https://github.com/Visnalize/resources.git",
+    "creator": "0666999762"
   }
 ]
