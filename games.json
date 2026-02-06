@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_indian_vehicles",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://indian-vehicles-simulator-3d.en.softonic.com/android&ved=2ahUKEwiEhIv9jMWSAxWGXGwGHcCTHNMQFnoECFoQAQ&usg=AOvVaw1G58UnzTshl-nlUF4229Ic",
+    "icon": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://indian-vehicles-simulator-3d.en.softonic.com/android&ved=2ahUKEwiEhIv9jMWSAxWGXGwGHcCTHNMQFnoECFoQAQ&usg=AOvVaw1G58UnzTshl-nlUF4229Ic",
+    "name": "Indian Vehicles",
+    "creator": "Indipendent Indian Studios"
   }
 ]
