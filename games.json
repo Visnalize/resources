@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_ex_my_awesome_game",
+    "url": "ex. https://my-web-game.freefiremax.com",
+    "icon": "ex. https://my-web-game.freefiremax.com.garena/icon.png",
+    "name": "ex.my awesome game",
+    "creator": "Garena"
   }
 ]
