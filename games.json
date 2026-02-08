@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_n_o_foi_poss_vel_obter_os_arquivos",
+    "url": "Não foi possível obter os arquivos",
+    "icon": "Não foi possível obter os arquivos",
+    "name": "Não foi possível obter os arquivos",
+    "creator": "Amanhã"
   }
 ]
