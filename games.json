@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_teddy_hailsh2",
+    "url": "teddy.hailsh2",
+    "icon": "teddy.hailsh2",
+    "name": "teddy.hailsh2",
+    "creator": "teddy.hailsh2"
   }
 ]
