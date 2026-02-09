@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_fun_game",
+    "url": "https://www.google.com/fbx?fbx=snake_arcade&fbxga=1&hl=en&origin=www.google.com",
+    "icon": "https://vectorified.com/images/snake-game-icon-17.jpg",
+    "name": "Fun game",
+    "creator": "Google"
   }
 ]
