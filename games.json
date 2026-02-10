@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_fifa2007",
+    "url": "Fifa2007",
+    "icon": "Fifa2007",
+    "name": "Fifa2007",
+    "creator": "Fifa2007"
   }
 ]
