@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_spidersolitaire",
+    "url": "https://spider-solitaire.app/%D0%BF%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D1%81-%D0%BF%D0%B0%D1%83%D0%BA/",
+    "icon": "https://images.saymedia-content.com/.image/t_share/MTczOTk5NzAwNDQ0MjU5NjM1/spider-solitaire.png",
+    "name": "SpiderSolitaire",
+    "creator": "Microsoft Corporation"
   }
 ]
