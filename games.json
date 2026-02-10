@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_mahjong_titans",
+    "url": "C:UsersАлександрDownloadsMahjong.lnk",
+    "icon": "https://avatars.mds.yandex.net/i?id=d81efe08c706c6af5dedea56840619c7-3740951-images-thumbs&n=13",
+    "name": "Mahjong Titans",
+    "creator": "Microsoft Corporation"
   }
 ]
