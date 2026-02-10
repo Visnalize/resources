@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_hero_wars",
+    "url": "https://www.hero-wars.com/?pid=19&offer_id=36&sub8=743d791be36a1df4ef831090f026e5b3&sub2=522791874&sub3=hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix.lp-heroleague2.dt-search_webrtgt.cid-522791874.csd-010725&sub4=1328212625159102&sub5=hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix_offline.lp-heroleague2.dt-search_webrtgt.cid-522791874.agid-1328212625159102.csd-010725&sub6=83013528954208&nx_source=adx_affise.microsoft.hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix.lp-heroleague2.dt-search_webrtgt.cid-522791874.csd-010725.agid-1328212625159102.cid-522791874.aid-83013528954208&custom2=Microsoft&advertiser_id=6471ca267a73072f2aaa1446&msclkid=743d791be36a1df4ef831090f026e5b3&developers=rsd&gift_id=NXvL8J1Iux&l=heroleague2&hl=en",
+    "icon": "https://www.hero-wars.com/?pid=19&offer_id=36&sub8=743d791be36a1df4ef831090f026e5b3&sub2=522791874&sub3=hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix.lp-heroleague2.dt-search_webrtgt.cid-522791874.csd-010725&sub4=1328212625159102&sub5=hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix_offline.lp-heroleague2.dt-search_webrtgt.cid-522791874.agid-1328212625159102.csd-010725&sub6=83013528954208&nx_source=adx_affise.microsoft.hw_wb_ur_-.cc-ww.g-all.au-brand.opt-mix.lp-heroleague2.dt-search_webrtgt.cid-522791874.csd-010725.agid-1328212625159102.cid-522791874.aid-83013528954208&custom2=Microsoft&advertiser_id=6471ca267a73072f2aaa1446&msclkid=743d791be36a1df4ef831090f026e5b3&developers=rsd&gift_id=NXvL8J1Iux&l=heroleague2&hl=en",
+    "name": "Hero Wars",
+    "creator": "unknown"
   }
 ]
