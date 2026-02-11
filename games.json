@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_my_amezing_game",
+    "url": "My-web-game.com",
+    "icon": "htpps://cdn.my-web-game.com/icon.png",
+    "name": "My amezing game",
+    "creator": "Judas meto"
   }
 ]
