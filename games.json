@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_axe",
+    "url": "Cs 1.6",
+    "icon": "Cs 1.6",
+    "name": "Axe",
+    "creator": "Russia"
   }
 ]
