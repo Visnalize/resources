@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_brawl_stars",
+    "url": "https://supercell.com/en/games/brawlstars/",
+    "icon": "https://icons8.de/icon/ahrjM0lEgQdM/brawl-stars",
+    "name": "Brawl Stars",
+    "creator": "Supercell"
   }
 ]
