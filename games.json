@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_hill_climb_racing",
+    "url": "https://apps.microsoft.com/search/publisher?name=Fingersoft&hl=ar-SA&gl=PS",
+    "icon": "https://apps.microsoft.com/detail/9wzdncrdcwk8?hl=ar-SA&gl=PS",
+    "name": "Hill Climb Racing",
+    "creator": "Folderico"
   }
 ]
