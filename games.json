@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_doki_doki",
+    "url": "https://en.gameslol.net/doki-doki-literature-club-1828.html",
+    "icon": "https://share.google/images/DiKc6nlrlLVYOv9A8",
+    "name": "doki doki",
+    "creator": "Dan Salvato"
   }
 ]
