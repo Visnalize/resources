@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_my_game_is_horror",
+    "url": "https://res.ldrescdn.com/apk/com.scottgames.fivenightsatfreddys-2.0.3.apk",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0ixvefbpCZt_bhA7pWosX66WCVXhLt4jRups5lsUVA&s=10",
+    "name": "My game is horror.",
+    "creator": "Scott Cawthon"
   }
 ]
