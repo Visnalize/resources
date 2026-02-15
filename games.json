@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_need_for_speed",
+    "url": "Need for speed",
+    "icon": "Need for speed",
+    "name": "Need for speed",
+    "creator": "Need for speed"
   }
 ]
