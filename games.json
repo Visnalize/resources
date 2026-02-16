@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_agar_io",
+    "url": "https://agar.io/",
+    "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis2-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple112%2Fv4%2F62%2F43%2Ff8%2F6243f8b9-59b7-ff6b-2d62-5bcd27717610%2FAppIcon-1x_U007emarketing-0-7-0-0-85-220.png%2F1200x630wa.png&f=1&nofb=1&ipt=69619f66ed88d4b4274264d8b5f1e465d1261e080d8229db3931fb3ddc11fcd6",
+    "name": "Agar.io",
+    "creator": "miniclip.com"
   }
 ]
