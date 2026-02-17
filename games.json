@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_minecraft_classic",
+    "url": "https://classic.minecraft.net",
+    "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Grass_Block_JE7.png",
+    "name": "Minecraft Classic",
+    "creator": "Mojang Studios"
   }
 ]
