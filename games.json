@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_lpro_os_win10_simu",
+    "url": "http://leojajomcserver.infinityfree.me/web/lpro/download.zip",
+    "icon": "http://leojajomcserver.infinityfree.me/web/lpro/image/exe.ico",
+    "name": "Lpro OS (Win10 Simu)",
+    "creator": "Leojajo Games"
   }
 ]
