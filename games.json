@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_sonic",
+    "url": "https://gamebanana.com/mods/download/599931#FileInfo_1456566",
+    "icon": "https://shapes.inc/sonicrewrite",
+    "name": "Sonic",
+    "creator": "Springless"
   }
 ]
