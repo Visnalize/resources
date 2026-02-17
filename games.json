@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_github_com_visnalize_resources_issues_new_template_suggest_game_yaml",
+    "url": "‏@Hamza:ZArchive",
+    "icon": "‏@Hamza:ZArchive",
+    "name": "https://github.com/Visnalize/resources/issues/new?template=suggest-game.yaml",
+    "creator": "https://github.com/Visnalize/resources/issues/new?template=suggest-game.yaml"
   }
 ]
