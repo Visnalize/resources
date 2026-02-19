@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_putt_rush_frvr",
+    "url": "https://puttrush.frvr.com/alc/?web&source=frvr.com&action=trending_games&theme=dark",
+    "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
+    "name": "Putt rush FRVR",
+    "creator": "FRVR"
   }
 ]
