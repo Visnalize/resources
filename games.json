@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_mario_vs_luigi",
+    "url": "https://ipodtouch0218.itch.io/nsmb-mariovsluigi",
+    "icon": "https://img.itch.zone/aW1nLzI0Mzg0MjMzLmdpZg==/originalm/OzbUKH.gif",
+    "name": "Mario vs Luigi",
+    "creator": "Nintendo"
   }
 ]
