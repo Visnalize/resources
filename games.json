@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_ffsupport_garena_com_hc_en_us",
+    "url": "https://sso.garena.com/html/pp en .html",
+    "icon": "https://sso.garena.com/html/tos en .html",
+    "name": "https://ffsupport.garena.com/hc/en -us",
+    "creator": "https://ffsupport.garena.com/hc/en -us"
   }
 ]
