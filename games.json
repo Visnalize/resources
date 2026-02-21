@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_cs_1_6",
+    "url": "www.cs16.info",
+    "icon": "www.cs16.info",
+    "name": "Cs 1.6",
+    "creator": "Cs.1.6"
   }
 ]
