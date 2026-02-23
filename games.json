@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_truck_simulator_big_rigs_yo_puedo_tocar",
+    "url": "Truck simulator big rigs",
+    "icon": "Truck simulator big",
+    "name": "Truck simulator big rigs yo puedo tocar",
+    "creator": "Por lujos"
   }
 ]
