@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gta_san_andreas",
+    "url": "https://www.rockstargames.com/games/sanandreas",
+    "icon": "https://4.bp.blogspot.com/-2gc4d8k8Mxk/VYkAEvzN8BI/AAAAAAAACU4/Pubs75N3MJE/s1600/GTA-San-Andreas-Android-iOS.png",
+    "name": "Gta san andreas",
+    "creator": "Rockstar Games"
   }
 ]
