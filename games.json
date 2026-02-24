@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_klekee_com_resident_evil_apk",
+    "url": "https://klekee.com/resident-evil-apk",
+    "icon": "https://klekee.com/resident-evil-apk",
+    "name": "https://klekee.com/resident-evil-apk",
+    "creator": "https://klekee.com/resident-evil-apk"
   }
 ]
