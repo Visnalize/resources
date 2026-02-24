@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_where_winds_meet",
+    "url": "Where winds meet",
+    "icon": "Where winds meet",
+    "name": "Where winds meet",
+    "creator": "Where winds meet"
   }
 ]
