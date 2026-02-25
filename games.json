@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gta_game_app_download",
+    "url": "GTA game app",
+    "icon": "GTA game app",
+    "name": "GTA game app download",
+    "creator": "GTA game app download"
   }
 ]
