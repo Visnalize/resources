@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_gta_5",
+    "url": "GTA 5",
+    "icon": "F8yd8yditd",
+    "name": "GTA 5",
+    "creator": "GTA 5"
   }
 ]
