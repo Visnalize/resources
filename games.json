@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_roblox_now_gg_hmtl",
+    "url": "https://now.gg/apps/Blox-fruit/19901/Blox-fruit.html",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4-sGlV2q1CNUcEalyIkvdMuh3VopQm238A&s",
+    "name": "roblox now.gg.hmtl",
+    "creator": "Roblox"
   }
 ]
