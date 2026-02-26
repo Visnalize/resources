@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_1vs1",
+    "url": "https://www.google.com/search?q=muvi&oq=muvi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQLhixAxiABBjHBTIKCAYQABiABBjHBTINCAcQLhixAxiABBjHBTINCAgQABixAxiABBjHBTITCAkQLhjHARixAxjRAxiABBjHBTINCAoQABixAxiABBjHBTIKCAsQABiABBjHBTIQCAwQLhjHARjRAxiABBjHBTIKCA0QABiABBjHBTIKCA4QABiABBjHBdIBCDQyMTdqMGo3qAIIsAIB8QXIhVZVE6jcfw&client=ms-android-realme-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8",
+    "icon": "https://www.google.com/search?q=muvi&oq=muvi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQLhixAxiABBjHBTIKCAYQABiABBjHBTINCAcQLhixAxiABBjHBTINCAgQABixAxiABBjHBTITCAkQLhjHARixAxjRAxiABBjHBTINCAoQABixAxiABBjHBTIKCAsQABiABBjHBTIQCAwQLhjHARjRAxiABBjHBTIKCA0QABiABBjHBTIKCA4QABiABBjHBdIBCDQyMTdqMGo3qAIIsAIB8QXIhVZVE6jcfw&client=ms-android-realme-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8",
+    "name": "1vs1",
+    "creator": "Garena"
   }
 ]
