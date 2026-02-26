@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_https_github_com_khronosgroup_vulkan_loader_git",
+    "url": "https://free fire.com/Vulkan-Loader.git",
+    "icon": "https://github.com/KhronosGroup/Vulkan-Loader.git",
+    "name": "https://github.com/KhronosGroup/Vulkan-Loader.git",
+    "creator": "GF"
   }
 ]
