@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_blockstarplanet",
+    "url": "https://blockstarplanet.com",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/92/35/7192359b-0af7-b12a-e033-1f98e2352bb7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png",
+    "name": "BlockStarPlanet",
+    "creator": "MovieStarPlanet ApS"
   }
 ]
