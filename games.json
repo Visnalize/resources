@@ -163,5 +163,12 @@
     "icon": "https://play-lh.googleusercontent.com/pUjEfStMu96kfa0BpV0MpbzmawF30_mEJkLA9rg-UFqkgmuU-qeWXnzWl0FWKvNFNqg",
     "name": "Cut The Rope",
     "creator": "ZeptoLab"
+  },
+  {
+    "id": "game_putt_rush_frvr",
+    "url": "https://puttrush.frvr.com/alc",
+    "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
+    "name": "Putt Rush FRVR",
+    "creator": "FRVR"
   }
 ]
