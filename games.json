@@ -158,6 +158,13 @@
     "creator": "Luigibonus"
   },
   {
+    "id": "game_google_snake",
+    "url": "https://googlesnakemods.com/v/current/",
+    "icon": "https://googlesnakemods.com/img/snake_logo.png",
+    "name": "Google Snake Mods",
+    "creator": "DarkSnakeGang"
+  },
+  {
     "id": "game_cut_the_rope",
     "url": "https://ctrhome.github.io/CutTheRope-FirefoxOS/",
     "icon": "https://play-lh.googleusercontent.com/pUjEfStMu96kfa0BpV0MpbzmawF30_mEJkLA9rg-UFqkgmuU-qeWXnzWl0FWKvNFNqg",
