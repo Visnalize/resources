@@ -156,5 +156,12 @@
     "icon": "https://cdn2.steamgriddb.com/icon/ef8ff41b21cbfec973591cf88c54b6b7/32/256x256.png",
     "name": "Super mario Construct",
     "creator": "Luigibonus"
+  },
+  {
+    "id": "game_cut_the_rope",
+    "url": "https://ctrhome.github.io/CutTheRope-FirefoxOS/",
+    "icon": "https://play-lh.googleusercontent.com/pUjEfStMu96kfa0BpV0MpbzmawF30_mEJkLA9rg-UFqkgmuU-qeWXnzWl0FWKvNFNqg",
+    "name": "Cut The Rope",
+    "creator": "ZeptoLab"
   }
 ]
