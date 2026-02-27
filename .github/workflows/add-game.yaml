@@ -26,7 +26,8 @@ jobs:
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: context.issue.number,
-                state: 'closed'
+                state: 'closed',
+                state_reason: 'not_planned'
               });
               core.setFailed(`Rejected: Spam detected. Restricted keyword "${found}" found.`);
             }
