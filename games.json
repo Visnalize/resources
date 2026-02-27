@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_pc_game",
+    "url": "https://github.com/Visnalize/resources.git",
+    "icon": "icons/win7/Games/Chess_128.ico",
+    "name": "Pc game",
+    "creator": "Smoke"
   }
 ]
