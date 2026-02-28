@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_play_cs_com_pt_servers",
+    "url": "https://play-cs.com/pt/servers",
+    "icon": "https://play-cs.com/pt/servers",
+    "name": "https://play-cs.com/pt/servers",
+    "creator": "https://play-cs.com/pt/servers"
   }
 ]
