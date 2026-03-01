@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_dragon_ball",
+    "url": "ex. https:cdn.my-wed-dragon ball.com/icon png",
+    "icon": "ex. https:cdn.my-wed-dragon ball.com/icon png",
+    "name": "Dragon ball",
+    "creator": "Ben 10"
   }
 ]
