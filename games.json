@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_rathod_gaming",
+    "url": "www.rathod gaming.com",
+    "icon": "www.rathod gaming.com",
+    "name": "rathod gaming",
+    "creator": "2.4"
   }
 ]
