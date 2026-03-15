@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_zuma",
+    "url": "https://www.crazygames.com/game/zuma-deluxe",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/8/8b/Zuma_Deluxe.jpg",
+    "name": "Zuma",
+    "creator": "PopCap Games"
   }
 ]
