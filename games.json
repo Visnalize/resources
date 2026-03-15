@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_bom",
+    "url": "https://s60-br.gladiatus.gameforge.com/game/index.php?mod=player&submod=genderChange&login=1&sh=fe0c88c6c322e6ce6ff582c1e29096c9",
+    "icon": "https://s60-br.gladiatus.gameforge.com/game/index.php?mod=player&submod=genderChange&login=1&sh=fe0c88c6c322e6ce6ff582c1e29096c9",
+    "name": "Bom++",
+    "creator": "Slk"
   }
 ]
