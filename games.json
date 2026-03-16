@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_my_awesome_ludo",
+    "url": "ex.https://my-web-ludo.com",
+    "icon": "ex.https:can.my-web-ludo.com/icon.png",
+    "name": "ex.my awesome ludo",
+    "creator": "Parchisi"
   }
 ]
