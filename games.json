@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_visual_studio_code",
+    "url": "Https/visualstudiocode.com",
+    "icon": "Https/visualstudiocode.com",
+    "name": "Visual studio code",
+    "creator": "Basit"
   }
 ]
