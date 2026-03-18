@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_grand_theft_auto_v",
+    "url": "https://www.crazygames.com/game/alpha-guns",
+    "icon": "https://www.steamgriddb.com/game/3674/icons",
+    "name": "Grand Theft Auto V",
+    "creator": "Rockstar Games"
   }
 ]
