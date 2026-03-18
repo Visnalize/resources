@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_this_mario_games_good",
+    "url": "https://www.smbgames.be/",
+    "icon": "https://camo.githubusercontent.com/fdc00bdeb704e3557fd76c18e343820c6062227fc0ba26ec6c4b96357cdfd544/68747470733a2f2f7261772e6769746875622e636f6d2f6a757374696e6d6569737465722f4d6172696f2d4c6576656c2d312f6d61737465722f73637265656e73686f742e706e67",
+    "name": "This mario games good",
+    "creator": "Mario"
   }
 ]
