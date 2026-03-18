@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game",
+    "url": "https://vseigru.net/",
+    "icon": "https://vseigru.net/templates/vseigru/images/new_logo_small_1.jpg?2",
+    "name": "Все Игры",
+    "creator": "me"
   }
 ]
