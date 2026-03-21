@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_windows_xp",
+    "url": "https://xp.quenq.com/",
+    "icon": "https://www.rw-designer.com/icon-view/18835.png",
+    "name": "Windows XP",
+    "creator": "Windows 11"
   }
 ]
