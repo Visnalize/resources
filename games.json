@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_windows",
+    "url": "https://windows96.net",
+    "icon": "https://windows96.net",
+    "name": "Windows",
+    "creator": "Gaston Lagaffe"
   }
 ]
