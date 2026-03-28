@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sumanth_b",
+    "url": "SUMANTH B",
+    "icon": "SUMANTH B",
+    "name": "SUMANTH B",
+    "creator": "SUMANTH B"
   }
 ]
