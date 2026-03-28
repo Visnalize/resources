@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_lol",
+    "url": "https://youtube.com/shorts/9-HkhcCZPJo?si=W3PglFLwW_SrE5kg",
+    "icon": "https://youtube.com/shorts/9-HkhcCZPJo?si=W3PglFLwW_SrE5kg",
+    "name": "Lol",
+    "creator": "Lion"
   }
 ]
