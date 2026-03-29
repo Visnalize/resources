@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_grand_theft_auto_v",
+    "url": "https://dos.zone/grand-theft-auto-1997/",
+    "icon": "https://cdn2.steamgriddb.com/icon/84ddfb34126fc3a48ee38d7044e87276.ico",
+    "name": "Grand Theft Auto V",
+    "creator": "Rockstar Games"
   }
 ]
