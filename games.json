@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sprunki",
+    "url": "https://wolf-hal.itch.io/sprunki",
+    "icon": "https://img.itch.zone/aW1nLzE3Njg0NDI5LmpwZWc=/original/pzfMZF.jpeg",
+    "name": "Sprunki",
+    "creator": "kLay_24V"
   }
 ]
