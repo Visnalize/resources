@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sprunki_revamp",
+    "url": "https://nicolasgamer595.itch.io/sprunki-revamped",
+    "icon": "https://img.itch.zone/aW1hZ2UvMzcxNTU5OC8yMjExNTM4Ni5wbmc=/original/pVSeIJ.png",
+    "name": "Sprunki revamp",
+    "creator": "kLay_24V"
   }
 ]
