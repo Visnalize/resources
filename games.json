@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_brawl_stars",
+    "url": "https://supercell.com/en/games/brawlstars/",
+    "icon": "https://brawlstars.fandom.com/ru/f/p/4400000000000154582",
+    "name": "Brawl Stars",
+    "creator": "Supercell"
   }
 ]
