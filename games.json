@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game",
+    "url": "https://en.softonic.com/download/project-igi/windows/post-download?dt=affiliateDownload",
+    "icon": "https://en.softonic.com/download/project-igi/windows/post-download?dt=affiliateDownload",
+    "name": "لعبتي حلوى",
+    "creator": "الكمبيوتر"
   }
 ]
