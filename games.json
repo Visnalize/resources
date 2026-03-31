@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_nvidia_geforce_now",
+    "url": "https://www.nvidia.com/en-eu/",
+    "icon": "https://play.geforcenow.com/mall/#/loginwall",
+    "name": "Nvidia GeForce Now",
+    "creator": "Nvidia"
   }
 ]
