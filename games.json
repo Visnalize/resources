@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_club_peguin",
+    "url": "https://play.cpjourney.net/",
+    "icon": "https://cdn-1.webcatalog.io/catalog/club-penguin-journey/club-penguin-journey-icon-filled-256.webp?v=1716619305743",
+    "name": "club peguin",
+    "creator": "Disney"
   }
 ]
