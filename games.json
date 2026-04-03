@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_blood_strike_x_seven_deadly_sins",
+    "url": "Blood strike",
+    "icon": "Blood strike",
+    "name": "Blood strike x seven deadly sins",
+    "creator": "Me"
   }
 ]
