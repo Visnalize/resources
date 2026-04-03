@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_gancade",
+    "url": "play.fancade.com",
+    "icon": "https://play.fancade.com/icon",
+    "name": "Gancade",
+    "creator": "Martin Magni"
   }
 ]
