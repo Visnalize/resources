@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_www_modxnet_com_tiktok_html",
+    "url": "https://www.modxnet.com/Tiktok.html",
+    "icon": "https://www.modxnet.com/Tiktok.html",
+    "name": "https://www.modxnet.com/Tiktok.html",
+    "creator": "No"
   }
 ]
