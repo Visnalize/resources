@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_cut_the_rope",
+    "url": "https://play.famobi.com/cut-the-rope",
+    "icon": "https://play.famobi.com/cut-the-rope",
+    "name": "Cut the Rope",
+    "creator": "Zeptolap LTD and Famobi"
   }
 ]
