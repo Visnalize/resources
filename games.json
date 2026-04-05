@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_super_smash_flash_2",
+    "url": "https://www.supersmashflash.com/play/ssf2/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Super_Smash_Flash_logo.png",
+    "name": "Super Smash Flash 2",
+    "creator": "Cleod9"
   }
 ]
