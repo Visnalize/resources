@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_pou_classroom_slacking",
+    "url": "https://archive.org/details/pou-classroom-slacking#loading",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4IzmyZLbWB1CDP8DFfGyi6hdE2xXqwqye6CrL1wZ7w&s=10",
+    "name": "Pou Classroom Slacking",
+    "creator": "Joy4Girl, Y8.com"
   }
 ]
