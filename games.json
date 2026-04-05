@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game__3d",
+    "url": "इंडियन बाइक 3D",
+    "icon": "इंडियन बाइक 3D",
+    "name": "इंडियन बाइक 3D",
+    "creator": "इंडियन बाइक 3D"
   }
 ]
