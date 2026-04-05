@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_beach_buggy_racing_2",
+    "url": "Bb racing",
+    "icon": "Bb racing 2 auto",
+    "name": "Beach buggy racing 2",
+    "creator": "Bb racing team"
   }
 ]
