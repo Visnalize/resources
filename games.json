@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_purble_place",
+    "url": "https://khang-nd.github.io/Comfy-Cakes/",
+    "icon": "https://www.google.com/search?client=ms-android-samsung-ss&hs=KwJ&sca_esv=5b10a2ebfbfda504&sxsrf=ANbL-n4ZAALSf4Wsyuup6mRt269H8MTB_g:1775414344925&udm=2&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRdynpPJ66TDyFgZmq_XFwppazcD3UADNx6r4GDDz3huEOg4-JsqXsTWRjrkKQQ9hdrBFkpFDbuAjRGXoTX8jW2XrkERnGk54SlIFceymhOzU4j5SJA5u_BYyWOjuEXRLguzcw0vhR31gbtd8H5hGUae3MmdZrGSlIBr35O0JGEqFQ8MGrKCfJ-SiQo2ZFnW_8MkmvZlkzj4V39eT6KG4DQAKBE3E&q=purble+place&sa=X&ved=2ahUKEwjc1O7qrdeTAxXcGbkGHanzF5gQtKgLegQIERAB&biw=384&bih=693&dpr=2.81#sv=CAMSVxoyKhBlLTNTSUp1LUlDVnJ4aEpNMg4zU0lKdS1JQ1ZyeGhKTToOR25TSy00R2JXa3hLV00gBCoXCgFzEhBlLTNTSUp1LUlDVnJ4aEpNGAEwAUoECAEQAhgHIOjNzW9KCBACGAEgAigB",
+    "name": "Purble Place",
+    "creator": "Microsoft"
   }
 ]
