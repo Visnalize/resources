@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_nox_setup_v7_0_6_2_full_intl_exe",
+    "url": "nox_setup_v7.0.6.2_full_ intl .exe",
+    "icon": "nox_setup_v7.0.6.2_full_ intl .exe",
+    "name": "nox_setup_v7.0.6.2_full_ intl .exe",
+    "creator": "Miraculous ladybug"
   }
 ]
