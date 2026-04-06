@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_gmod",
+    "url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+    "icon": "https://share.google/u3aKV4qXsVN2b6nWL",
+    "name": "Gmod",
+    "creator": "Garry Newman"
   }
 ]
