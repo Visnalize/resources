@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_elgoog",
+    "url": "https://elgoog.im/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ElgooG_2015_logo.svg",
+    "name": "Elgoog",
+    "creator": "Elgoog"
   }
 ]
