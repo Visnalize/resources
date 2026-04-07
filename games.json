@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_windows_11_simulator",
+    "url": "https://win11.blueedge.me/",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyit6-4IkAQsN-r7Ngae5fyu-bX-y5zr29uzwUWXWtA&s=10",
+    "name": "Windows 11 simulator",
+    "creator": "Blue edge"
   }
 ]
