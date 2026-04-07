@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_g_switch_4",
+    "url": "https://seriusgames.com/game/g-switch-4/",
+    "icon": "https://seriusgames.com/images/gs4_screen.png",
+    "name": "G switch 4",
+    "creator": "Serius games"
   }
 ]
