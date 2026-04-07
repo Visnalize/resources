@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_subway_surfers",
+    "url": "https://subway-surfers.gg/",
+    "icon": "https://images.sftcdn.net/images/t_app-icon-m/p/c4eaf094-96d3-11e6-9f6e-00163ec9f5fa/3559157990/subway-surfers-logo",
+    "name": "Subway surfers",
+    "creator": "Sybo & Killo"
   }
 ]
