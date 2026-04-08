@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_pepa_s_pizzeria",
+    "url": "https://papaspizzeria.io/",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/377fd7d97c2b2f4fe25618ccffcc601b/papas-pizzeria.jfif",
+    "name": "PEPA’s Pizzeria",
+    "creator": "Flipline Studios"
   }
 ]
