@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_eaglecraft",
+    "url": "https://eaglercraft.com/",
+    "icon": "https://avatars.githubusercontent.com/u/214648626?v=4",
+    "name": "Eaglecraft",
+    "creator": "LAX1Dude"
   }
 ]
