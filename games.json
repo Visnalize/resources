@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game",
+    "url": "ফিরি ফায়ার",
+    "icon": "ফিরি ফায়ার",
+    "name": "ফিরি ফায়ার",
+    "creator": "ফিরি ফায়ার"
   }
 ]
