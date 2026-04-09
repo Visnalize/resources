@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_img_poki_cdn_com_cdn_cgi_image_width_200_height_200_fit_cover_f_auto_6f0dfe3b8b2a_png",
+    "url": "https://poki.com/en/g/subway-surfers",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/width=200,height=200,fit=cover,f=auto/6f0dfe3b8b2a.png",
+    "name": "https://img.poki-cdn.com/cdn-cgi/image/width=200,height=200,fit=cover,f=auto/6f0dfe3b8b2a.png",
+    "creator": "Subway Surfers"
   }
 ]
