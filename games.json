@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_pubg_mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+    "icon": "https://www.rw-designer.com/icon-detail/21520",
+    "name": "PUBG MOBILE",
+    "creator": "Brendan Greene"
   }
 ]
