@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game__create_game_pr_from_issue_https_github_com_visnalize_resources_actions_workflows_add_game_yaml_badge_svg_https_github_com_visnalize_resources_actions_workflows_add_game_yaml",
+    "url": "[![Create Game PR from Issue](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml/badge.svg)](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml)",
+    "icon": "[![Create Game PR from Issue](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml/badge.svg)](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml)",
+    "name": "[![Create Game PR from Issue](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml/badge.svg)](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml)",
+    "creator": "[![Create Game PR from Issue](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml/badge.svg)](https://github.com/Visnalize/resources/actions/workflows/add-game.yaml)"
   }
 ]
