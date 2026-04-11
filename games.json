@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_far_away",
+    "url": "5555",
+    "icon": "88418a52f105f4a54.2807847204",
+    "name": "Far away",
+    "creator": "Yan paing Oo"
   }
 ]
