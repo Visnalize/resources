@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sonic",
+    "url": "Dark sonic sonic 2 hd",
+    "icon": "Super sonic sonic 2 hd",
+    "name": "Sonic",
+    "creator": "Sonic 22"
   }
 ]
