@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_brenda",
+    "url": "803.690.812-34",
+    "icon": "803.690.812-34",
+    "name": "BRENDA",
+    "creator": "Computador"
   }
 ]
