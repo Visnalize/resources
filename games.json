@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_play_store",
+    "url": "https://play.google.com/store/games%3Fhl%3Des_419&ved=2ahUKEwiyksb3wOuTAxXb6ckDHckCKyMQFnoECBAQAQ&usg=AOvVaw07a1DjiS1aH2TubTpDCeYG",
+    "icon": "https://www.google.com/search?safe=active&sa=X&sca_esv=f0f46d557053f7c4&udm=2&sxsrf=ANbL-n7I9kGHGdc-bNIUI3eyjFcHDXthgw:1776106743973&q=play&stick=H4sIAAAAAAAAAFvEylKQk1gJAOwr2JcHAAAA&source=univ&ved=2ahUKEwiu27qcweuTAxWK_8kDHax4ByMQrNwCegQIGhAA&biw=360&bih=718&dpr=2",
+    "name": "Play store",
+    "creator": "Google"
   }
 ]
