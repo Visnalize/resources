@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_starblast",
+    "url": "https://starblast.io/#",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiWFxHBrzLsVMaGlSKqYvgwAAdVzN5DIb3hDb0G4stg&s=10",
+    "name": "StarBlast",
+    "creator": "Gilles, Matthias"
   }
 ]
