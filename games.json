@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_awesome_game",
+    "url": "https://www.google.com/search?q=indian+bike+driving+3d&oq=indian+bike+driving+&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBggCEEUYOTIHCAMQABiABDIKCAQQABixAxiABDIHCAUQABiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIHCAgQABiABDINCAkQABixAxiABBiKBTIHCAoQABiABDIHCAsQABiABDINCAwQABiDARixAxiABDIKCA0QABixAxiABDINCA4QABixAxiABBiKBdIBCDUxMDNqMGo3qAIUsAIB8QU2oqdyQ5UIV_EFNqKnckOVCFc&client=ms-android-xiaomi-terr1-rso1&sourceid=chrome-mobile&ie=UTF-8",
+    "icon": "Indian bike driving 3d",
+    "name": "Awesome game",
+    "creator": "Rohit studio"
   }
 ]
