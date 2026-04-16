@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_goat",
+    "url": "https://play.google.com/store/apps/details?id=com.coffeestainstudios.goatsimulator.free",
+    "icon": "https://www.google.com/search?q=goat+simulator+icon+url&client=ms-android-xiaomi-terr1-rso2&hs=k92U&sca_esv=81a3370c8de2f367&udm=2&biw=392&bih=735&sxsrf=ANbL-n4oLqHTQ5hcmeIzMEF2AdnUqpGsvA%3A1776310041362&ei=GVfgacnsFeqZnesP2LawoQo&oq=goat+simulator+icon+url&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciF2dvYXQgc2ltdWxhdG9yIGljb24gdXJsMggQABiABBiiBDIIEAAYgAQYogRIiihQxw5Y6yVwAXgAkAEBmAHTAaABoROqAQYwLjExLjK4AQPIAQD4AQGYAgmgAoMMwgIEECEYFcICBBAAGB7CAgYQABgIGB6YAwCIBgGSBwMxLjigB4IUsgcDMC44uAeBDMIHBzAuMy41LjHIBySACAA&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLTAzbFdTMFJ1dXJCNjdNMg4wM2xXUzBSdXVyQjY3TToOek14YnNYZXBBajNqNk0gBCoXCgFzEhBlLTAzbFdTMFJ1dXJCNjdNGAEwAUoECAEQAhgHILuHhI8PSggQAhgBIAIoAQ",
+    "name": "goat",
+    "creator": "Dip"
   }
 ]
