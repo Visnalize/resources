@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_biswajitparamanik730_hub",
+    "url": "biswajitparamanik730-hub",
+    "icon": "biswajitparamanik730-hub",
+    "name": "biswajitparamanik730-hub",
+    "creator": "biswajitparamanik730-hub"
   }
 ]
