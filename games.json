@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_my_excellent_game",
+    "url": "https://my-web-game.com",
+    "icon": "https://my-digital-game.com",
+    "name": "My Excellent Game",
+    "creator": "Shailesh Sharma"
   }
 ]
