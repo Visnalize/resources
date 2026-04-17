@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game__external_computer_drive0_windows",
+    "url": "/EXTERNAL/computer/drive0/Windows",
+    "icon": "/EXTERNAL/computer/drive0/Windows",
+    "name": "/EXTERNAL/computer/drive0/Windows",
+    "creator": "/EXTERNAL/computer/drive0/Windows"
   }
 ]
