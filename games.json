@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_madalin_stunt_cars_2",
+    "url": "https://www.crazygames.com/embed/madalin-stunt-cars-2",
+    "icon": "https://images.crazygames.com/madalin-stunt-cars-2/cover-1670415358856.png",
+    "name": "Madalin Stunt Cars 2",
+    "creator": "Madalin Games"
   }
 ]
