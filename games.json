@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_craftmaster_4_deluxe_building",
+    "url": "https://play.google.com/store/apps/details?id=com.sptrdev.craftsmaster4",
+    "icon": "Screenshot_20260417-201010.jpg",
+    "name": "Craftmaster 4 deluxe building",
+    "creator": "SPTRDEV"
   }
 ]
