@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_plants_vs_zombies",
+    "url": "https://www.minijuegos.com/juego/plants-vs-zombies/jugar",
+    "icon": "https://share.google/iY0OP3zYy9RSuT5TU",
+    "name": "Plants Vs Zombies",
+    "creator": "PopCap & EA"
   }
 ]
