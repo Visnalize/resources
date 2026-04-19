@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_nostalgia",
+    "url": "https://win7simu.visnalize.com",
+    "icon": "Idk",
+    "name": "Nostalgia😭",
+    "creator": "Idk"
   }
 ]
