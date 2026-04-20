@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_my_swag_game",
+    "url": "Geometry dash",
+    "icon": "https://www.google.com/search?q=geometry+dash&oq=geometry+dash&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyCggBEC4YsQMYgAQyBggCEEUYOzIKCAMQABixAxiABDIKCAQQABixAxiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPDIICAgQBRgKGCwyCggJEAAYsQMYgAQyBwgKEAAYgAQyCggLEC4YsQMYgAQyCggMEC4YsQMYgAQyCggNEAAYsQMYgAQyCggOEAAYsQMYgATSAQgxMjYxajBqN6gCFLACAfEFpCvgwsAurFLxBaQr4MLALqxS&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8",
+    "name": "My swag game",
+    "creator": "Robert Topala"
   }
 ]
