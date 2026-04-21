@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_angry_birds_rio",
+    "url": "https://www.rovio.com",
+    "icon": "Angry birds rio",
+    "name": "Angry birds rio",
+    "creator": "Rovio Entertainment"
   }
 ]
