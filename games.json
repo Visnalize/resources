@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_hopin",
+    "url": "https://t.me/vape_zona_40",
+    "icon": "https://yandex.ru/maps/org/ekspert_klimat/162723214595/",
+    "name": "Hopin",
+    "creator": "Prohor"
   }
 ]
