@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_math_adding_game",
+    "url": "https://mathadding.com",
+    "icon": "https://mathadding.com/Kanhaiya.png",
+    "name": "Math adding game",
+    "creator": "I am careating app math adding app example 2+2 koi daila to uska answer bata dai ki 4 hoga"
   }
 ]
