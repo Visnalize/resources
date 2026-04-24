@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_files_ibd3dplugin_com_ibd_vehicles_4672c5a04160c59d0c_glb",
+    "url": "https://files.ibd3dplugin.com/IBD/Vehicles/4672c5a04160c59d0c.glb",
+    "icon": "fA5@@RAn@qBjs82orBV8Ss@6Ta%F#",
+    "name": "https://files.ibd3dplugin.com/IBD/Vehicles/4672c5a04160c59d0c.glb",
+    "creator": "https://files.ibd3dplugin.com/IBD/Vehicles/4672c5a04160c59d0c.glb"
   }
 ]
