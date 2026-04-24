@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_my_play_games",
+    "url": "ex. Http://www.VR games",
+    "icon": "ex. Http://www.play games",
+    "name": "ex. My play games",
+    "creator": "Vishnu Raut"
   }
 ]
