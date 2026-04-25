@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_color_artist",
+    "url": "https://poki.com/es/g/color-artist",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SHQ-cV1uXMxEXA6iVs3rKdCL-OARjzM-m558r-mNJq_iiVCQVQ&s&ec=121643214",
+    "name": "Color artist",
+    "creator": "The Good Guys"
   }
 ]
