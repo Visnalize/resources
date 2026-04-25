@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game__omerta",
+    "url": "0xab057d9a5dfe94e3c01df3245fe60751d5abdc15",
+    "icon": "EIP-3074 https://www.binance.com/en/academy/glossary/eip-3074",
+    "name": "🙈🙊🙉™️omerta",
+    "creator": "Kamil Orzechowski"
   }
 ]
