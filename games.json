@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_scorpio_wala_game",
+    "url": "Scorpio wala game",
+    "icon": "Scorpio wala game",
+    "name": "Scorpio wala game",
+    "creator": "Scorpio wala game"
   }
 ]
