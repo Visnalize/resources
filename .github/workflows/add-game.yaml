@@ -18,7 +18,7 @@ jobs:
         with:
           script: |
             const body = context.payload.issue.body.toLowerCase();
-            const restricted = ['free fire', 'roblox', 'minecraft', 'gta', 'gmail.com'];
+            const restricted = ['free fire', 'roblox', 'minecraft', 'gta', 'gmail.com', 'poki.com'];
             const found = restricted.find(word => body.includes(word));
 
             if (found) {
