@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_tik_tok",
+    "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "icon": "https://vt.tiktok.com/ZS9r9JUX7/",
+    "name": "tik tok",
+    "creator": "iraq"
   }
 ]
