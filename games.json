@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_github_com_visnalize_resources_issues_new_choose",
+    "url": "https://github.com/Visnalize/resources/issues/new/choose",
+    "icon": "https://github.com/Visnalize/resources/issues/new/choose",
+    "name": "https://github.com/Visnalize/resources/issues/new/choose",
+    "creator": "give me a action game play with squad and interesting game"
   }
 ]
