@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sonic_the_hedgehog_2",
+    "url": "https://www.bing.com/search?qs=HS&pq=sonic+2+online&sk=CSYN1&sc=11-14&pglt=2339&q=sonic+2+online&cvid=4dc8a7e2e22f4510bb8518fddc0d425a&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQgzMjcxajBqN6gCALACAA&FORM=ANNTA1&adppc=EDGEDBB&PC=EDGEDBB",
+    "icon": "it doesnt have an icon, sorry",
+    "name": "Sonic The Hedgehog 2",
+    "creator": "SEGA, Sonic Team"
   }
 ]
