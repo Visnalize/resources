@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ets2",
+    "url": "Euro truck simulator 2",
+    "icon": "Ets2",
+    "name": "Ets2",
+    "creator": "Euro truck simulator 2 mods"
   }
 ]
