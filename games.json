@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_mari0",
+    "url": "https://stabyourself.net",
+    "icon": "https://mari0.en.uptodown.com/icon.png",
+    "name": "Mari0",
+    "creator": "Alesan99"
   }
 ]
