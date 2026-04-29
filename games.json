@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_granny",
+    "url": "https://drive.google.com/file/d/1Pc59yu-NaCWDU-PowavlGt5e2L-4NaeJ/view?usp=drivesdk",
+    "icon": "https://drive.google.com/file/d/1Pc59yu-NaCWDU-PowavlGt5e2L-4NaeJ/view?usp=drivesdk",
+    "name": "Granny",
+    "creator": "D. V loper"
   }
 ]
