@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_yt3_googleusercontent_com_xvk2ytryeulkdvfisu6wwbf4sn3bf1ifoqhazg975jh8eqcxwszq5uiih_mv_cra9gfn2xltfa_s900_c_k_c0x00ffffff_no_rj",
+    "url": "https://yandex.ru/games/app/baldi-142549",
+    "icon": "https://yandex.ru/games/app/baldi-142549",
+    "name": "https://yt3.googleusercontent.com/XvK2yTRyEULkdvFISu6WwbF4Sn3bF1ifoqhAzG975jH8eqCxWSZQ5UIiH-mV_CRA9GFn2xLtfA=s900-c-k-c0x00ffffff-no-rj",
+    "creator": "Baldi Bases"
   }
 ]
