@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_the_long_drive",
+    "url": "https://gofrag.ru/gonki/the-long-drive",
+    "icon": "https://www.google.com/search?q=the+long+drive&client=ms-android-honor&hs=edT&sca_esv=a980f3cdef1bdd34&udm=2&biw=359&bih=491&sxsrf=ANbL-n7Nh4_aD7talsrihLzE6ZOS6R66DA%3A1777651270467&ei=Rs70aaOYHN6PwPAPjrDyuA0&gs_ssp=eJzj4tVP1zc0rDQ1yKgwKzIwYPTiK8lIVcjJz0tXSCnKLEsFAI80Cak&oq=The+lo&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciBlRoZSBsbyoCCAEyCBAuGIAEGLEDMggQLhiABBixAzIFEAAYgAQyBRAuGIAEMgUQLhiABEirgQFQ7g1Y9WlwAngAkAEBmAHVAaABgAmqAQU1LjQuMbgBAcgBAPgBAZgCC6AClgmoAgbCAgcQIxgnGMkCwgIKEC4YgAQYQxiKBcICChAAGIAEGEMYigXCAgYQABgHGB7CAgoQIxgnGMkCGOoCwgIKEC4YJxjJAhjqAsICDhAuGIAEGLEDGIMBGIoFwgILEC4YgAQY0QMYxwHCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYigXCAgsQLhiABBixAxiDAZgDEYgGAZIHBTIuOC4xoAfDarIHBTAuOC4xuAf2CMIHBzItMS45LjHIB48BgAgA&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLWlwdjUyUmNrblN6NFNNMg5pcHY1MlJja25TejRTTToOS0FjektJVGUyT2hHR00gBCoXCgFzEhBlLWlwdjUyUmNrblN6NFNNGAEwAUoECAEQAhgHIMOB-YEISggQAhgBIAIoAQ",
+    "name": "The Long Drive",
+    "creator": "ХЗ"
   }
 ]
