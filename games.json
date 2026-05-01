@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_brawl_stars_3d",
+    "url": "https://playhop.com/tr/app/brawl-simulator-3d-462102",
+    "icon": "https://www.guvenlioyna.org.tr/uploads/reviewImage/Brawl%20Stars.jpg",
+    "name": "Brawl stars 3D",
+    "creator": "Yusuf GÜDEN"
   }
 ]
