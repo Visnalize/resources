@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_crime_action_rpg",
+    "url": "ex.https://www.rockstargames.com",
+    "icon": "https://www.steamgriddb.com/icon/2018",
+    "name": "Crime Action RPG",
+    "creator": "Grand Theft Auto V"
   }
 ]
