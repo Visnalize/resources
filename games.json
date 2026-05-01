@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_the_awosmest_game",
+    "url": "https://armorgames.com/play/18255/swarm-queen",
+    "icon": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/701870/Swarm_Queen/&ved=2ahUKEwjmgJPsvJiUAxXiRfEDHdcrFvoQqa4BegQIZRAA&usg=AOvVaw0cMFaghDOmhDbJLWN9OHPo",
+    "name": "The awosmest game",
+    "creator": "Flyborg"
   }
 ]
