@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_the_best_in_browser_shooter_game",
+    "url": "https://poxel.io/",
+    "icon": "https://imgs.crazygames.com/poxel-io_1x1/20250422021430/poxel-io_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
+    "name": "The best in browser shooter game",
+    "creator": "Legion Games"
   }
 ]
