@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_free_fire_battlegrounds_uptodown_com_android",
+    "url": "https://free-fire-battlegrounds.uptodown.com/android",
+    "icon": "https://free-fire-battlegrounds.uptodown.com/android",
+    "name": "https://free-fire-battlegrounds.uptodown.com/android",
+    "creator": "https://free-fire-battlegrounds.uptodown.com/android"
   }
 ]
