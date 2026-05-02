@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_2048_puzzle_game",
+    "url": "https://play2048.ci/",
+    "icon": "https://play2048.co/meta/apple-touch-icon.png",
+    "name": "2048 Puzzle Game",
+    "creator": "Gabriele Cirulli"
   }
 ]
