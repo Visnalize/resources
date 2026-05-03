@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_famidash",
+    "url": "https://share.google/IG0vdmxTXLyn5wRm9",
+    "icon": "https://share.google/HWvgnfAzuWRCC3Gmu",
+    "name": "Famidash",
+    "creator": "kandowontu"
   }
 ]
