@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_github_com_visnalize_resources_issues_6564",
+    "url": "https://github.com/Visnalize/resources/issues/6564",
+    "icon": "https://github.com/Visnalize/resources/issues/6564",
+    "name": "https://github.com/Visnalize/resources/issues/6564",
+    "creator": "https://github.com/Visnalize/resources/issues/6564"
   }
 ]
