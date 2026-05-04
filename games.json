@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_this_is_a_very_good_game",
+    "url": "Https://slowroads.io",
+    "icon": "Https://slowroads.io",
+    "name": "This is a very good game",
+    "creator": "Slowroads.io"
   }
 ]
