@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_doodle_jump",
+    "url": "https://doodlejump.io/",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/5/5a/Doodle_Jump_icon.png",
+    "name": "Doodle jump",
+    "creator": "Lima Sky"
   }
 ]
