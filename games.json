@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_zap_struckd_com_games_headname_4",
+    "url": "https://zap.struckd.com/games/headname-4",
+    "icon": "https://zap.struckd.com/games/headname-4",
+    "name": "https://zap.struckd.com/games/headname-4",
+    "creator": "Jispal singh"
   }
 ]
