@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_snail_mail",
+    "url": "ex. https/://snail mail. com",
+    "icon": "Snail mail",
+    "name": "Snail mail",
+    "creator": "Rgdcgh"
   }
 ]
