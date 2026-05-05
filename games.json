@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_magic_rampage",
+    "url": "https://store.steampowered.com/app/704920/Magic_Rampage/",
+    "icon": "https://store.steampowered.com/app/704920/Magic_Rampage/",
+    "name": "Magic rampage",
+    "creator": "Asante games"
   }
 ]
