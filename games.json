@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_n_o_sei_de_nada",
+    "url": "/start",
+    "icon": "https://vt.tiktok.com/ZS9VKjNja/",
+    "name": "Não sei de nada.",
+    "creator": "Meu pau"
   }
 ]
