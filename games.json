@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_permainan_keren_ku",
+    "url": "https:/my-web-gameku.com",
+    "icon": "https://cdn.my-wep-game.com/icon.png",
+    "name": "Permainan keren ku",
+    "creator": "Rahmat"
   }
 ]
