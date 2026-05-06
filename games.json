@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_party_animals",
+    "url": "https://store.steampowered.com/app/1260320/Party_Animals/",
+    "icon": "https://fr.wikipedia.org/wiki/Fichier:Party_Animals_Logo.png",
+    "name": "Party animals",
+    "creator": "Recreate Games"
   }
 ]
