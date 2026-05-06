@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_newgrounds_flash_game",
+    "url": "Newgrounds.com — Everything, By Everyone Newgrounds.com https://www.newgrounds.com",
+    "icon": "https://en.wikipedia.org/wiki/Newgrounds",
+    "name": "newgrounds flash game",
+    "creator": "Tom Fulp"
   }
 ]
