@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_https_cdn_my_web_game_com_icon_png",
+    "url": "Ex. https. Soccerfotball.com",
+    "icon": "ex. https://cdn. my-web-game. com/icon. Png",
+    "name": "ex. https://cdn.my-web-game.com/icon.png",
+    "creator": "Dj mixer game"
   }
 ]
