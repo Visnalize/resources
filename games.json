@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_zelda",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elementallis.com/&ved=2ahUKEwj5wLbz96WUAxVc_8kDHcZAJ4oQFnoECDYQAQ&sqi=2&usg=AOvVaw0Z9meedszA6mr3bN5zWARW",
+    "icon": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elementallis.com/&ved=2ahUKEwj5wLbz96WUAxVc_8kDHcZAJ4oQFnoECDYQAQ&sqi=2&usg=AOvVaw0Z9meedszA6mr3bN5zWARW",
+    "name": "Zelda",
+    "creator": "Iván Ruiz Lozano"
   }
 ]
