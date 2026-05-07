@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_dima",
+    "url": "https://link.standoff2.com/ru/lobby/join/664ef93132f28970b2f5c0bf?token=KEN5mCuCbZ5WHwHnkmY82T7wkuw93TWF",
+    "icon": "https://link.standoff2.com/ru/lobby/join/664ef93132f28970b2f5c0bf?token=KEN5mCuCbZ5WHwHnkmY82T7wkuw93TWF",
+    "name": "Dima",
+    "creator": "DOMA Ponov"
   }
 ]
