@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_paper_io_2",
+    "url": "Paper IO 2",
+    "icon": "Paper IO 2",
+    "name": "Paper IO 2",
+    "creator": "DLS 26"
   }
 ]
