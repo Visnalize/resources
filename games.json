@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_space_shooter_ultimate_2014",
+    "url": "https://space-shooter-ultimate.apk.gold/1.2.3",
+    "icon": "https://space-shooter-ultimate.apk.gold/1.2.3",
+    "name": "Space shooter ultimate 2014",
+    "creator": "div"
   }
 ]
