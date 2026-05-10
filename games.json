@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_need_for_speed",
+    "url": "Need for speed",
+    "icon": "Window 7",
+    "name": "Need for speed",
+    "creator": "Wanted"
   }
 ]
