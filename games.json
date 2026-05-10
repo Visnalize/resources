@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_atekila_sonbi_dos",
+    "url": "Atekila sonbi 2",
+    "icon": "Atekila sonbi 2",
+    "name": "Atekila sonbi dos",
+    "creator": "Atekila sonbi 2"
   }
 ]
