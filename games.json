@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_stewie_pancake_simulator",
+    "url": "https ://websim.com/@simpsoner/stewies-pancake-house",
+    "icon": "019e0643-a241-7618-8bc-25f7fe06a531",
+    "name": "stewie pancake simulator",
+    "creator": "Supersus"
   }
 ]
