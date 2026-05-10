@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_awesome",
+    "url": "Xol6YyzUkYe6fm1A6",
+    "icon": "Xol6YyzUkYe6fm1A6",
+    "name": "awesome",
+    "creator": "EA Black Box"
   }
 ]
