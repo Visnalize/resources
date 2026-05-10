@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_my_favorite_game",
+    "url": "ex.https://cdn.free-fire-game.com/icon.png",
+    "icon": "ex.https://cdn.free-fire-game.com/icon.png",
+    "name": "My favorite game",
+    "creator": "Forest Li"
   }
 ]
