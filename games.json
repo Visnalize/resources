@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_unblocked_games",
+    "url": "https://watchdocumentaries.com/games/",
+    "icon": "https://api.dicebear.com/7.x/pixel-art/svg?seed=icon",
+    "name": "unblocked games",
+    "creator": "me"
   }
 ]
