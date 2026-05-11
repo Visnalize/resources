@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_agent_action",
+    "url": "https://www.wingame.com",
+    "icon": "https://www.wingame.com/icon",
+    "name": "Agent action",
+    "creator": "Alax"
   }
 ]
