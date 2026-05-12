@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_stardew_valley",
+    "url": "store.steampowered.com",
+    "icon": "https://cdn.akamai.steamstatic.com/steam/apps/304930/capsule_184x69.jpg",
+    "name": "Stardew Valley",
+    "creator": "Smartly Dressed Games"
   }
 ]
