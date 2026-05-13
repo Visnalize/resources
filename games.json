@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_koutol",
+    "url": "My com web",
+    "icon": "Icon pnj",
+    "name": "Koutol",
+    "creator": "Nadel"
   }
 ]
