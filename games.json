@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_digimonnoname_v0_0_8_20_prototype_exe",
+    "url": "libfusion.windows.template_release.x86_64.release.dll",
+    "icon": "DigimonNoName_v0.0.8.20 Prototype.exe",
+    "name": "DigimonNoName_v0.0.8.20 Prototype.exe",
+    "creator": "DigimonNoName_v0.0.8.20"
   }
 ]
