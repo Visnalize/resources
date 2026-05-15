@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_maleo_bus_simulator_tanzani",
+    "url": "Maleo bus simulator tanzani",
+    "icon": "Maleo bus simulator tanzani",
+    "name": "Maleo bus simulator tanzani",
+    "creator": "Said ally"
   }
 ]
