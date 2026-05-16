@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_kisah_pemuda_perantau",
+    "url": "https://id=com.ikanasinproduction.cintadicitampi",
+    "icon": "https://?id=com.ikanasinproduction.cintadicitampi/ikon.png",
+    "name": "Kisah pemuda perantau",
+    "creator": "Ragil Derio"
   }
 ]
