@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_super_bear_adventure",
+    "url": "https://www.rekoroyun.com/super-bear-adventure.html",
+    "icon": "content://media/external/downloads/1000097890",
+    "name": "Super Bear Adventure",
+    "creator": "Earthkwak Games"
   }
 ]
