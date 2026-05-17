@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_isla_de_los_campeones",
+    "url": "https://www.google.com/logos/2020/kitsune/rc6/kitsune20.html?hl=es-419",
+    "icon": "https://www.pinterest.com/pin/888335095306465358/",
+    "name": "Isla de los campeones",
+    "creator": "Google doodle"
   }
 ]
