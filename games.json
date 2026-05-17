@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_beamngdrive",
+    "url": "https://www.beamng.com/game/",
+    "icon": "https://www.bing.com/images/search?view=detailV2&ccid=jT2x8u6v&id=618125327409AC39EB4B002597CED6C438AB99A3&thid=OIP.jT2x8u6vEoh_vWgpZ6hHXQAAAA&mediaurl=https%3A%2F%2Fwww.clavecd.es%2Fwp-content%2Fuploads%2Fbeamng-drive-trailer-video.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.8d3db1f2eeaf12887fbd682967a8475d%3Frik%3Do5mrOMTWzpclAA%26pid%3DImgRaw%26r%3D0&exph=300&expw=300&q=beamngdrive+logo&form=IQFRBA&ck=A796FA64537A1F5F33704670F1253B68&selectedindex=10&pivotparams=insightsToken%3Dccid_HLcTXYIV*cp_B1901A9CB7E28ABF93B41F786107D4E7*mid_715D9AED823EA1C9CF139962E55D2E6E084884AE*thid_OIP.HLcTXYIVR6UAJKnpB8KT-QAAAA&vt=0&sim=11&iss=VSI",
+    "name": "BeamNgDrive",
+    "creator": "beamng"
   }
 ]
