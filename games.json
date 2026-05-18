@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_as_myfavourit",
+    "url": "As.https://cdn.my_web_game.com/url",
+    "icon": "As.https://cdn.my_web_game.com/icon.pages",
+    "name": "As.myfavourit",
+    "creator": "Ashwin_suthar"
   }
 ]
