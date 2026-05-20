@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_spider_solitaire",
+    "url": "https://leo62-glitch-version2.github.io/Spider-Solitaire-Win7/",
+    "icon": "https://raw.githubusercontent.com/leo62-glitch-version2/Spider-Solitaire-Win7/refs/heads/main/Capture_d_%C3%A9cran_2026-05-20_222150-removebg-preview.ico",
+    "name": "Spider Solitaire",
+    "creator": "Microsoft"
   }
 ]
