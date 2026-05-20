@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_shararam",
+    "url": "https://www.shararam.ru/",
+    "icon": "https://upload.wikimedia.org/wikipedia/ru/e/e7/Logo-shar.webp",
+    "name": "Shararam",
+    "creator": "New Media"
   }
 ]
