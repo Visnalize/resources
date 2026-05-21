@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_grow_a_fy",
+    "url": "https://microstudio.io/fatihyazenFY_/growafy/",
+    "icon": "https://microstudio.dev/fatihyazenFY_/growafy/7XY9WNU2/icon.png",
+    "name": "grow-a-fy",
+    "creator": "the garden studio"
   }
 ]
