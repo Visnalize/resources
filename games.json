@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_jogue_sem_rank",
+    "url": "horizonte-rp.com",
+    "icon": "https://ip1.horizonte-rp.com",
+    "name": "Jogue sem rank",
+    "creator": "Gabriel1"
   }
 ]
