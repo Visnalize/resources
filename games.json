@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_eaglercraft_com_play_version_1_12_2",
+    "url": "https://eaglercraft.com/play?version=1.5.2",
+    "icon": "https://eaglercraft.com/play?version=1.8.8",
+    "name": "https://eaglercraft.com/play?version=1.12.2",
+    "creator": "https://eaglercraft.com/play?version=1.8.8"
   }
 ]
