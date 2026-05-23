@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_f2_u_r_d2_f2_d2_f2_l_f_u2_f2_b_f2_d2_r_f2_u2_f2_u_l",
+    "url": "F2 U R D2 F2 D2 F2 L F U2 F2 B F2 D2 R F2 U2 F2 U L",
+    "icon": "F2 U R D2 F2 D2 F2 L F U2 F2 B F2 D2 R F2 U2 F2 U L",
+    "name": "F2 U R D2 F2 D2 F2 L F U2 F2 B F2 D2 R F2 U2 F2 U L",
+    "creator": "F2 U R D2 F2 D2 F2 L F U2 F2 B F2 D2 R F2 U2 F2 U L"
   }
 ]
