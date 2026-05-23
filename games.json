@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_football",
+    "url": "https://www.konami.com/efootball/download/",
+    "icon": "https://i.supaimg.com/099f825f-bd1c-4b45-ae50-ec6dbde77904/571c8798-c914-4538-9e17-5dd1846d8acb.png",
+    "name": "Football",
+    "creator": "Reyizman the artist"
   }
 ]
