@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_indan_bike_3d",
+    "url": "https://support.google.com/googleplay/answer/11416267?hl=en&visit_id=639152189287676527-929253959&p=data-safety&rd=1",
+    "icon": "https://support.google.com/googleplay/answer/11416267?hl=en&visit_id=639152189287676527-929253959&p=data-safety&rd=1",
+    "name": "Indan bike 3D",
+    "creator": "Indan bike 3D"
   }
 ]
