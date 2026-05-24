@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_virtual_dj_8",
+    "url": "Virtual DJ 8",
+    "icon": "Virtual DJ 8",
+    "name": "Virtual DJ 8",
+    "creator": "Virtual DJ 8"
   }
 ]
