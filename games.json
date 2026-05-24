@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_asamslsks",
+    "url": "Akaka",
+    "icon": "https://github.com/Visnalize/resources/issues/new?template=suggest-game.yaml",
+    "name": "Asamslsks",
+    "creator": "hssssssssssssssss"
   }
 ]
