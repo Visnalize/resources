@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_hhhh",
+    "url": "Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.",
+    "icon": "Njn",
+    "name": "Hhhh",
+    "creator": "Hhhhhhh"
   }
 ]
