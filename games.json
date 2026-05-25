@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_uncharted",
+    "url": "https://www.gamezop.com/?id=4032,",
+    "icon": "https://raw.githubusercontent.com/Visnalize/resources/main/images/gamezop.gif,",
+    "name": "uncharted",
+    "creator": "uncharted"
   }
 ]
