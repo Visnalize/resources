@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_1_game",
+    "url": "Brawl stars",
+    "icon": "Brawl stars",
+    "name": "Ex. 1 game",
+    "creator": "Brawl stars"
   }
 ]
