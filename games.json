@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_window",
+    "url": "https://neal-fun.org/windows-11-simulator/",
+    "icon": "https://neal-fun.org/windows-11-simulator/",
+    "name": "WINDOW",
+    "creator": "ME!!!"
   }
 ]
