@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_peperio_2_ex",
+    "url": "Peperio.2.ex",
+    "icon": "Peperio.2.ex",
+    "name": "peperio.2.ex",
+    "creator": "Peper io.2"
   }
 ]
