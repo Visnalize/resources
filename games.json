@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_they_joy_of_creation_story_mode_pc",
+    "url": "The joy of creation",
+    "icon": "The joy of creation",
+    "name": "They joy of creation story mode pc",
+    "creator": "The joy of creation story mode pc"
   }
 ]
