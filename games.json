@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_your_avatar_the_last",
+    "url": "https://gaming-escape.freetls.fastly.net/public/assets/games/angry-birds/",
+    "icon": "https://gaming-escape.freetls.fastly.net/public/assets/games/angry-birds/",
+    "name": "Your Avatar the last",
+    "creator": "idk"
   }
 ]
