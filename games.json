@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_www_crazygames_com",
+    "url": "https://www.crazygames.com/",
+    "icon": "https://www.crazygames.com/game/99-nights-bloxd-io",
+    "name": "https://www.crazygames.com/",
+    "creator": "Gamers"
   }
 ]
