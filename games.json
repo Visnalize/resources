@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_nabulois_io",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nebulous.en.aptoide.com/app&ved=2ahUKEwiZ-fK9yuaUAxWU8DgGHZzWI2YQFnoECFkQAQ&usg=AOvVaw1kyoK4QwEL8rTWCVakt7l5",
+    "icon": "https://share.google/crWErsVkqfSWXBSxe",
+    "name": "Nabulois io",
+    "creator": "Farid Julian"
   }
 ]
