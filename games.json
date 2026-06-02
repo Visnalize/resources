@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_car_x",
+    "url": "https://www.microsoft.com/en-pk/store/top-free/games/pc",
+    "icon": "https://www.xbox.com/en-GB/games/store/asphalt-legends/9nzqpt0mwtd0",
+    "name": "Car x",
+    "creator": "Microsoft"
   }
 ]
