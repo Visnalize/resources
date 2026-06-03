@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_grand_theft_auto_vice_city",
+    "url": "Grand Theft Auto: Vice City https://share.google/tMzAlkl6qDDIZCXN6",
+    "icon": "https://www.google.com/search?q=vice+city+game&sca_esv=001908dfaac62674&sxsrf=ANbL-n6wxqASQ21EVHlmEt2lRA_zJbq0RQ%3A1780466692476&source=hp&ei=BMQfauTSGJiUseMP-Mu0wQY&biw=360&bih=674&gs_ssp=eJzj4tTP1TcwzMo1TTZg9OIry0xOVUjOLKlUSE_MTQUAbZQIcg&oq=vice&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIEdmljZSoCCAAyCBAuGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEiEPlCMKVj9MHACeACQAQCYAccCoAGbCaoBBTItMS4zuAEByAEA-AEBmAIGoAL5C6gCJcICBxAuGCcY6gLCAgcQIxgnGOoCwgINECMYJxjoBhjqAhidBsICEBAuGAMYtAIY6gIYjwHYAQHCAhAQABgDGLQCGOoCGI8B2AEBwgIKECMYgAQYJxiKBcICDhAAGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjRAxjHAZgDdPEFFX3KUonPr2PxBT26q1jVI6vcugYECAEYCpIHBzAuMi4xLjOgB-cdsgcFMi0xLjO4B5kKwgcJMy0xLjIuMS4yyAfWAoAIAA&sclient=mobile-gws-wiz-hp#sv=CAMScRoyKhBlLVBDcFZiU3dpeXVxT2pNMg5QQ3BWYlN3aXl1cU9qTToOUENwVmJTd2l5dXFPak0gBCoxChtfRHNRZmFyU1JCTGFYanVNUHBjUDR1QWNfNTgSEGUtUENwVmJTd2l5dXFPak0YADABSgQIARACGAcg8fS2rAhKCBACGAEgAigB",
+    "name": "Grand Theft Auto: Vice City",
+    "creator": "Rockstar North"
   }
 ]
