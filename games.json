@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_correlation_id_06d345db_711e_4b8d_804a_cf7796c10000_timestamp_2026_06_04t14_41_30_000z_dpti_4533e5b81327f044_message_access_denied_for_the_resource_tag_9hehw_code_0",
+    "url": ".github/workflows/add-game.call of duty",
+    "icon": "Correlation Id: 06d345db-711e-4b8d-804a-cf7796c10000 Timestamp: 2026-06-04T14:41:30.000Z DPTI: 4533e5b81327f044 Message: Access denied for the resource. Tag: 9hehw Code: 0",
+    "name": "Correlation Id: 06d345db-711e-4b8d-804a-cf7796c10000 Timestamp: 2026-06-04T14:41:30.000Z DPTI: 4533e5b81327f044 Message: Access denied for the resource. Tag: 9hehw Code: 0",
+    "creator": "Correlation Id: 06d345db-711e-4b8d-804a-cf7796c10000 Timestamp: 2026-06-04T14:41:30.000Z DPTI: 4533e5b81327f044 Message: Access denied for the resource. Tag: 9hehw Code: 0"
   }
 ]
