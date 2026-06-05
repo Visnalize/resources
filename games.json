@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_https_godotengine_org",
+    "url": "ex.https://godotengine.org/",
+    "icon": "ex.https://godotengine.org/",
+    "name": "ex.https://godotengine.org/",
+    "creator": "sadadsa"
   }
 ]
