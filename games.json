@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_my_awesome_fortnite",
+    "url": "ex. https://my-web-fortnite.com",
+    "icon": "ex. https://cdn.my-web-fortnite.com/icon.png",
+    "name": "ex. My Awesome Fortnite",
+    "creator": "Hebrew"
   }
 ]
