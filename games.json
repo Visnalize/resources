@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_ff_garena_com_en",
+    "url": "https://ff.garena.com/en",
+    "icon": "https://ff.garena.com/en",
+    "name": "https://ff.garena.com/en",
+    "creator": "Win7"
   }
 ]
