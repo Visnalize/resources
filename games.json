@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_super_good_game",
+    "url": "Https://itch.io.com",
+    "icon": "Https://cdn.itch.io.com/icon.png",
+    "name": "Super good game",
+    "creator": "Haez"
   }
 ]
