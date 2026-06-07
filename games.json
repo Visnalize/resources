@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_gaming_123",
+    "url": "Gaming 123",
+    "icon": "Gaming 123",
+    "name": "Gaming 123",
+    "creator": "Majong"
   }
 ]
