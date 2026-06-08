@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_jogo_muito_bom",
+    "url": "Https.www.jurassic.clash",
+    "icon": "Https.cdn.jurassic.clash",
+    "name": "Jogo muito bom",
+    "creator": "Techhouse games"
   }
 ]
