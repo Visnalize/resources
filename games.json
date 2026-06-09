@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_granny_xic_remake",
+    "url": "Granny Xic Remake",
+    "icon": "Granny Xic Remake",
+    "name": "Granny Xic Remake",
+    "creator": "Developer"
   }
 ]
