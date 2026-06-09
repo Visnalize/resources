@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_classic_mine_detection",
+    "url": "https://vvui-blip.github.io/mine-detection/",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNeIbdpYwC3T4fmHIMbL8NTL6ONF-rhGSs7BerGEgRbg&s=10",
+    "name": "classic mine detection",
+    "creator": "VVui-blip"
   }
 ]
