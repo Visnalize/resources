@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_front_wars_io",
+    "url": "front wars io",
+    "icon": "war",
+    "name": "front wars io",
+    "creator": "لا عرف"
   }
 ]
