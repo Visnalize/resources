@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_tap_on_a_clip_to_paste_it_in_the_text_box",
+    "url": "Welcome to Gboard clipboard, any text you copy will be saved here.",
+    "icon": "Welcome to Gboard clipboard, any text you copy will be saved here.",
+    "name": "Tap on a clip to paste it in the text box.",
+    "creator": "Dryu"
   }
 ]
