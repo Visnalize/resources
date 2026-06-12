@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_my_favourite_game",
+    "url": "https://ff.garena.com/en",
+    "icon": "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/ebcec94a33d37c7b957e8a795240f732.jpg",
+    "name": "My favourite game",
+    "creator": "Garena studio"
   }
 ]
