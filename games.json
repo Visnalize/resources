@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_sm64coopdx_apk",
+    "url": "https://github.com/ManIsCat2/sm64coopdx/releases/download/Av1.5.1/sm64coopdx.apk",
+    "icon": "https://github.com/ManIsCat2/sm64coopdx/releases/download/Av1.5.1/sm64coopdx.apk",
+    "name": "sm64coopdx.apk",
+    "creator": "Malnscat2"
   }
 ]
