@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_bihar_candy_crush_game",
+    "url": "https://drive.google.com/file/d/1G-k1Bx_DG_vPWnDoi2STKyyy8hOcb-Wp/view?usp=drivesdk",
+    "icon": "https://drive.google.com/file/d/1G-k1Bx_DG_vPWnDoi2STKyyy8hOcb-Wp/view?usp=drivesdk",
+    "name": "Bihar candy crush game",
+    "creator": "Candy crush"
   }
 ]
