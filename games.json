@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_www_crazygames_com_es_game_netquel_com_czy_invite_true_utm_source_invite_invitationid_pywwkk",
+    "url": "https://www.crazygames.com/es/game/netquel-com?czy_invite=true&utm_source=invite&invitationId=PYWWKK",
+    "icon": "https://www.crazygames.com/es/game/netquel-com?czy_invite=true&utm_source=invite&invitationId=PYWWKK",
+    "name": "https://www.crazygames.com/es/game/netquel-com?czy_invite=true&utm_source=invite&invitationId=PYWWKK",
+    "creator": "Mojang"
   }
 ]
