@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_kour_io",
+    "url": "https://kour.io/",
+    "icon": "https://yt3.googleusercontent.com/x3FbmGOgfSWQveuDp_EXgWBWIEsoJzHOSwtXt2RsZUdldFg0ewcqnib2c-fd3sVVoHfwIc9p1rU=s900-c-k-c0x00ffffff-no-rj",
+    "name": "Kour IO",
+    "creator": "Legion Games"
   }
 ]
