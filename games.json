@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_left_4_dead_2",
+    "url": "Lefy 4 dead2",
+    "icon": "#8983",
+    "name": "Left 4 dead 2",
+    "creator": "Left 4 dead 2"
   }
 ]
