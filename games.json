@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_constru_o_simulador_3",
+    "url": "Construção simulador 3",
+    "icon": "Construção simulador 3",
+    "name": "Construção simulador 3",
+    "creator": "Construção simulador 3"
   }
 ]
