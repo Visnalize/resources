@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_talking_tom_ben_news",
+    "url": "Outfit7 Limited",
+    "icon": "Talking Tom Ben News",
+    "name": "Talking tom ben news",
+    "creator": "Talking tom ben news"
   }
 ]
