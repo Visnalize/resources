@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_delhi",
+    "url": "RASHID KHAN",
+    "icon": "Painter",
+    "name": "Delhi",
+    "creator": "B 55 Kanchan Kunj Madanpur Khadar Sarita Vihar"
   }
 ]
