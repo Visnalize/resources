@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_best_horror_game",
+    "url": "Best horror game",
+    "icon": "Best horror game",
+    "name": "Best horror game",
+    "creator": "Best horror game"
   }
 ]
