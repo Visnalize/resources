@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_cg_chandu_king",
+    "url": "cg_chandu_king",
+    "icon": "cg_chandu_king",
+    "name": "cg_chandu_king",
+    "creator": "cg_chandu_king"
   }
 ]
