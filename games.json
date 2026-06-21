@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_amongusplay_online_go_1715",
+    "url": "amongusplay.online/?go-1715",
+    "icon": "amongusplay.online/?go-1715",
+    "name": "amongusplay.online/?go-1715",
+    "creator": "amongusplay.online/?go-1715"
   }
 ]
