@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_www_https_com",
+    "url": "www.//https.com",
+    "icon": "www.//https.com",
+    "name": "www.//https.com",
+    "creator": "www.//https.com"
   }
 ]
