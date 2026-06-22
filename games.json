@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_my_talking_tom_friends_en_uptodown_com_android",
+    "url": "https://my-talking-tom-friends.en.uptodown.com/android",
+    "icon": "https://my-talking-tom-friends.en.uptodown.com/android",
+    "name": "https://my-talking-tom-friends.en.uptodown.com/android",
+    "creator": "https://my-talking-tom-friends.en.uptodown.com/android"
   }
 ]
