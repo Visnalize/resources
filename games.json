@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ex_shadow",
+    "url": "https://lttthedev.github.io/desktop.html",
+    "icon": "https://lttthedev.github.io/desktop.html",
+    "name": "ex.shadow",
+    "creator": "Windows12 demo"
   }
 ]
