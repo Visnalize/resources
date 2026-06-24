@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_meu_jogo_the_sms",
+    "url": "git@github.com:modcommunity/how-to-install-mods-in-the-sims4-on-pc.git",
+    "icon": "DocumentsElectronic ArtsThe Sims 4Mods",
+    "name": "Meu jogo The sms",
+    "creator": "The sims"
   }
 ]
