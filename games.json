@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_yandere",
+    "url": "https://www.mediafire.com/file/viciqzzv01kna3q/YandereSimulator.zip/file",
+    "icon": "https://www.mediafire.com/file/viciqzzv01kna3q/YandereSimulator.zip/file",
+    "name": "Yandere",
+    "creator": "YandereDev"
   }
 ]
