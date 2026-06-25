@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_extreme_car_race",
+    "url": "https://axesinmotion.com/extreme-car-driving-simulator/",
+    "icon": "https://googleusercontent.com",
+    "name": "Extreme Car Race",
+    "creator": "AxesInMotion"
   }
 ]
