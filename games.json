@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_tr_ch_i_hay_ho_c_a_t_i",
+    "url": "Https://web-my-game.com",
+    "icon": "Https://web-my-game.com",
+    "name": "Trò chơi hay ho của tôi",
+    "creator": "Khôi"
   }
 ]
