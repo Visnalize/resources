@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_score_hero",
+    "url": "https://firsttouchgames.com",
+    "icon": "https://firsttouchgames.com/icon.png",
+    "name": "Score! Hero",
+    "creator": "First Touch Games"
   }
 ]
