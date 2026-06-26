@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_hide_and_seak",
+    "url": "http://www.mecchachameleon.com",
+    "icon": "http://www.mecchachameleon.com",
+    "name": "Hide and seak",
+    "creator": "Xyz"
   }
 ]
