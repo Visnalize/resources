@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_fifa_14",
+    "url": "Fifa 14",
+    "icon": "Fifa 14",
+    "name": "Fifa 14",
+    "creator": "94fbr"
   }
 ]
