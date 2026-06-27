@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_vt_tiktok_com_zsqeknxoe",
+    "url": "https://vt.tiktok.com/ZSQEknxoE/",
+    "icon": "https://vt.tiktok.com/ZSQEknxoE/",
+    "name": "https://vt.tiktok.com/ZSQEknxoE/",
+    "creator": "gdl"
   }
 ]
