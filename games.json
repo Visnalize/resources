@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_dangerous_game_in_world",
+    "url": "https://GitHub.com",
+    "icon": "https://GitHub.com",
+    "name": "Dangerous game in world",
+    "creator": "Rockstar"
   }
 ]
