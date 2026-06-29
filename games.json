@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_jay_veins_com",
+    "url": "https://Jay Veins.com",
+    "icon": "https://Jay Veins.com",
+    "name": "https://Jay Veins.com",
+    "creator": "Jay Bee Walker"
   }
 ]
