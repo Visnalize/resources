@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_animador_vs_animation",
+    "url": "https://flashmuseum.org/the-animator-vs-animation-game/",
+    "icon": "rBY4rN",
+    "name": "animador vs animation",
+    "creator": "pulpin"
   }
 ]
