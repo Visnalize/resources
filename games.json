@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_ggarena_3_battle",
+    "url": "https://your-game-url.com",
+    "icon": "https://your-game-url.com/icon.png",
+    "name": "GGarena 3 Battle",
+    "creator": "Khadim Hussain"
   }
 ]
