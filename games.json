@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_play_google_com_store_apps_details_id_com_pro_game_freesurvivalunknownbattle",
+    "url": "https://play.google.com/store/apps/details?id=com.pro.game.FreeSurvivalUnknownBattle",
+    "icon": "https://play.google.com/store/apps/details?id=com.pro.game.FreeSurvivalUnknownBattle",
+    "name": "https://play.google.com/store/apps/details?id=com.pro.game.FreeSurvivalUnknownBattle",
+    "creator": "Created by the developer company"
   }
 ]
