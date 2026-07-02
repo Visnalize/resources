@@ -1,0 +1,137 @@
+name: Review and Reject Spam PRs
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9am UTC
+  workflow_dispatch:
+
+jobs:
+  review-spam-prs:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+
+    steps:
+      - name: Review and reject spam PRs using Copilot
+        uses: actions/github-script@v7
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          script: |
+            const { data: pullRequests } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100,
+            });
+
+            if (pullRequests.length === 0) {
+              console.log('No open PRs to review.');
+              return;
+            }
+
+            console.log(`Found ${pullRequests.length} open PR(s) to review.`);
+
+            for (const pr of pullRequests) {
+              console.log(`Reviewing PR #${pr.number}: "${pr.title}"`);
+
+              const { data: files } = await github.rest.pulls.listFiles({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+              });
+
+              const filesSummary = files.map(f => `${f.filename} (${f.status})`).join(', ');
+
+              const prContent = [
+                `PR Title: ${pr.title}`,
+                `PR Body: ${pr.body || '(empty)'}`,
+                `Changed files: ${filesSummary || '(none)'}`,
+                `Author: ${pr.user.login}`,
+              ].join('\n');
+
+              const response = await fetch('https://models.inference.ai.azure.com/chat/completions', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'Authorization': 'Bearer ' + process.env.GH_TOKEN,
+                },
+                body: JSON.stringify({
+                  model: 'gpt-4o-mini',
+                  messages: [
+                    {
+                      role: 'system',
+                      content: [
+                        'You are a spam detector for a GitHub repository that stores game resources',
+                        '(game URLs, icons, names, and creators) for Win7 Simu.',
+                        'Determine whether a pull request is spam, gibberish, or clearly low-quality.',
+                        'A PR is spam if any of the following apply:',
+                        '- The title or body is gibberish, random characters, or makes no sense',
+                        '- It is an obvious test, joke, or troll PR',
+                        '- The content is completely unrelated to adding or updating game resources',
+                        '- It contains promotional, offensive, or clearly irrelevant content',
+                        'Respond with ONLY a valid JSON object:',
+                        '{"isSpam": true, "reason": "brief explanation"}',
+                        'or {"isSpam": false, "reason": "looks legitimate"}',
+                      ].join(' '),
+                    },
+                    {
+                      role: 'user',
+                      content: prContent,
+                    },
+                  ],
+                  max_tokens: 150,
+                  temperature: 0,
+                }),
+              });
+
+              if (!response.ok) {
+                console.error(`Failed to analyze PR #${pr.number}: ${response.status} ${response.statusText}`);
+                continue;
+              }
+
+              const result = await response.json();
+              const messageContent = result.choices?.[0]?.message?.content?.trim();
+
+              if (!messageContent) {
+                console.error(`No AI response received for PR #${pr.number}.`);
+                continue;
+              }
+
+              let analysis;
+              try {
+                analysis = JSON.parse(messageContent);
+              } catch (e) {
+                console.error(`Could not parse AI response for PR #${pr.number}: ${messageContent}`);
+                continue;
+              }
+
+              console.log(`PR #${pr.number}: isSpam=${analysis.isSpam}, reason=${analysis.reason}`);
+
+              if (analysis.isSpam) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number,
+                  body: [
+                    '🤖 This pull request has been automatically identified as spam or low-quality',
+                    'content and is being closed.',
+                    '',
+                    `**Reason:** ${analysis.reason}`,
+                    '',
+                    'If you believe this is a mistake, please open a new pull request with a',
+                    'clear description of your changes.',
+                  ].join('\n'),
+                });
+
+                await github.rest.pulls.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: pr.number,
+                  state: 'closed',
+                });
+
+                console.log(`Closed PR #${pr.number} as spam.`);
+              }
+            }
