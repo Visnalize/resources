@@ -22,6 +22,84 @@ jobs:
           script: |
             const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+            // Label applied to non-spam PRs so subsequent runs skip them
+            const REVIEWED_LABEL = 'spam-reviewed';
+
+            // Games known not to work in iframes (must be rejected outright)
+            const RESTRICTED_GAMES = [
+              'free fire', 'freefire', 'roblox', 'minecraft', 'gta',
+              'grand theft auto', 'fortnite', 'pubg',
+            ];
+
+            const isValidUrl = (str) => {
+              if (!str) return false;
+              try {
+                const u = new URL(str);
+                return u.protocol === 'http:' || u.protocol === 'https:';
+              } catch {
+                return false;
+              }
+            };
+
+            const rejectPr = async (pr, reason) => {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body: [
+                  '🤖 This pull request has been automatically identified as spam or low-quality',
+                  'content and is being closed.',
+                  '',
+                  `**Reason:** ${reason}`,
+                  '',
+                  'If you believe this is a mistake, please open a new pull request with a',
+                  'clear description of your changes.',
+                ].join('\n'),
+              });
+
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                state: 'closed',
+              });
+
+              console.log(`Closed PR #${pr.number} as spam: ${reason}`);
+
+              const issueMatch = (pr.body || '').match(/Close\s+#(\d+)/i);
+              if (issueMatch) {
+                const issueNumber = parseInt(issueMatch[1], 10);
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNumber,
+                  state: 'closed',
+                  state_reason: 'not_planned',
+                });
+                console.log(`Closed linked issue #${issueNumber} for PR #${pr.number}.`);
+              }
+            };
+
+            // Ensure the reviewed label exists
+            try {
+              await github.rest.issues.getLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: REVIEWED_LABEL,
+              });
+            } catch (e) {
+              if (e.status === 404) {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: REVIEWED_LABEL,
+                  color: '0075ca',
+                  description: 'PR has been reviewed by the spam detection workflow',
+                });
+                console.log(`Created label '${REVIEWED_LABEL}'.`);
+              }
+            }
+
             const listOpts = {
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -46,6 +124,12 @@ jobs:
             console.log(`Found ${pullRequests.length} open PR(s) to review.`);
 
             for (const pr of pullRequests) {
+              // Skip PRs already reviewed in a previous run
+              if (pr.labels.some(l => l.name === REVIEWED_LABEL)) {
+                console.log(`Skipping PR #${pr.number}: already reviewed.`);
+                continue;
+              }
+
               console.log(`Reviewing PR #${pr.number}: "${pr.title}"`);
 
               await sleep(3000);
@@ -56,6 +140,74 @@ jobs:
                 pull_number: pr.number,
               });
 
+              // --- Rule-based checks on games.json changes ---
+              const gamesJsonFile = files.find(f => f.filename === 'games.json');
+              if (gamesJsonFile) {
+                let headGames, baseGames;
+                try {
+                  const [headRes, baseRes] = await Promise.all([
+                    github.rest.repos.getContent({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      path: 'games.json',
+                      ref: pr.head.sha,
+                    }),
+                    github.rest.repos.getContent({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      path: 'games.json',
+                      ref: pr.base.sha,
+                    }),
+                  ]);
+                  headGames = JSON.parse(Buffer.from(headRes.data.content, 'base64').toString('utf8'));
+                  baseGames = JSON.parse(Buffer.from(baseRes.data.content, 'base64').toString('utf8'));
+                } catch (e) {
+                  console.error(`Failed to fetch games.json for PR #${pr.number}: ${e.message}`);
+                }
+
+                if (headGames && baseGames) {
+                  const baseIds = new Set(baseGames.map(g => g.id));
+                  const baseMap = new Map(baseGames.map(g => [g.id, g]));
+                  const changedGames = headGames.filter(g => {
+                    if (!baseIds.has(g.id)) return true;
+                    const base = baseMap.get(g.id);
+                    return g.url !== base.url || g.icon !== base.icon;
+                  });
+
+                  for (const game of changedGames) {
+                    if (!isValidUrl(game.url)) {
+                      await rejectPr(pr, `Invalid URL in "url" field: "${game.url}"`);
+                      break;
+                    }
+                    if (!isValidUrl(game.icon)) {
+                      await rejectPr(pr, `Invalid URL in "icon" field: "${game.icon}"`);
+                      break;
+                    }
+                    if (game.url === game.icon) {
+                      await rejectPr(pr, `Game URL and icon share the same URL: "${game.url}"`);
+                      break;
+                    }
+                    const nameLower = (game.name || '').toLowerCase();
+                    const urlLower = (game.url || '').toLowerCase();
+                    const searchText = `${nameLower} ${urlLower}`;
+                    const restricted = RESTRICTED_GAMES.find(k => searchText.includes(k));
+                    if (restricted) {
+                      await rejectPr(pr, `"${game.name}" is a well-known game that does not support iframe embedding and cannot be added.`);
+                      break;
+                    }
+                  }
+
+                  // Check if the PR was already closed by a rule above
+                  const { data: updatedPr } = await github.rest.pulls.get({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    pull_number: pr.number,
+                  });
+                  if (updatedPr.state === 'closed') continue;
+                }
+              }
+
+              // --- AI-based analysis ---
               const filesSummary = files.map(f => `${f.filename} (${f.status})`).join(', ');
 
               const prContent = [
@@ -124,41 +276,15 @@ jobs:
               console.log(`PR #${pr.number}: isSpam=${analysis.isSpam}, reason=${analysis.reason}`);
 
               if (analysis.isSpam) {
-                await github.rest.issues.createComment({
+                await rejectPr(pr, analysis.reason);
+              } else {
+                // Mark as reviewed so subsequent runs skip this PR
+                await github.rest.issues.addLabels({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   issue_number: pr.number,
-                  body: [
-                    '🤖 This pull request has been automatically identified as spam or low-quality',
-                    'content and is being closed.',
-                    '',
-                    `**Reason:** ${analysis.reason}`,
-                    '',
-                    'If you believe this is a mistake, please open a new pull request with a',
-                    'clear description of your changes.',
-                  ].join('\n'),
+                  labels: [REVIEWED_LABEL],
                 });
-
-                await github.rest.pulls.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  pull_number: pr.number,
-                  state: 'closed',
-                });
-
-                console.log(`Closed PR #${pr.number} as spam.`);
-
-                const issueMatch = (pr.body || '').match(/Close\s+#(\d+)/i);
-                if (issueMatch) {
-                  const issueNumber = parseInt(issueMatch[1], 10);
-                  await github.rest.issues.update({
-                    owner: context.repo.owner,
-                    repo: context.repo.repo,
-                    issue_number: issueNumber,
-                    state: 'closed',
-                    state_reason: 'not_planned',
-                  });
-                  console.log(`Closed linked issue #${issueNumber} for PR #${pr.number}.`);
-                }
+                console.log(`PR #${pr.number} passed review. Added '${REVIEWED_LABEL}' label.`);
               }
             }
