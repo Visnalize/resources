@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+      issues: write
       contents: read
 
     steps:
@@ -19,12 +20,23 @@ jobs:
           MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
         with:
           script: |
-            const { data: pullRequests } = await github.rest.pulls.list({
+            const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+            const listOpts = {
               owner: context.repo.owner,
               repo: context.repo.repo,
               state: 'open',
+              sort: 'created',
+              direction: 'asc',
               per_page: 100,
-            });
+            };
+
+            const [page1, page2] = await Promise.all([
+              github.rest.pulls.list({ ...listOpts, page: 1 }),
+              github.rest.pulls.list({ ...listOpts, page: 2 }),
+            ]);
+
+            const pullRequests = [...page1.data, ...page2.data];
 
             if (pullRequests.length === 0) {
               console.log('No open PRs to review.');
@@ -35,6 +47,8 @@ jobs:
 
             for (const pr of pullRequests) {
               console.log(`Reviewing PR #${pr.number}: "${pr.title}"`);
+
+              await sleep(3000);
 
               const { data: files } = await github.rest.pulls.listFiles({
                 owner: context.repo.owner,
@@ -133,5 +147,18 @@ jobs:
                 });
 
                 console.log(`Closed PR #${pr.number} as spam.`);
+
+                const issueMatch = (pr.body || '').match(/Close\s+#(\d+)/i);
+                if (issueMatch) {
+                  const issueNumber = parseInt(issueMatch[1], 10);
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issueNumber,
+                    state: 'closed',
+                    state_reason: 'not_planned',
+                  });
+                  console.log(`Closed linked issue #${issueNumber} for PR #${pr.number}.`);
+                }
               }
             }
