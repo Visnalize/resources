@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_green_hell",
+    "url": "Green hell",
+    "icon": "Green hell",
+    "name": "Green hell",
+    "creator": "Green hell"
   }
 ]
