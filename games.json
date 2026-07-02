@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_car_eats_car",
+    "url": "https://www.gameflare.com/online-game/car-eats-car/",
+    "icon": "https://www.gameflare.com/img/logo.png",
+    "name": "Car Eats Car",
+    "creator": "SMOKOKO"
   }
 ]
