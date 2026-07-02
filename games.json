@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_hill_climb_racing",
+    "url": "Hill Climb Racing",
+    "icon": "Hill Climb Racing",
+    "name": "Hill Climb Racing",
+    "creator": "Hill Climb Racing"
   }
 ]
