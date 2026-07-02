@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_2d_games",
+    "url": "https://itch.io/games/tag-2d",
+    "icon": "https://share.google/4xinnCsVE2DFZBHJW",
+    "name": "2d games",
+    "creator": "Itch io"
   }
 ]
