@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_com_dts_freefireth",
+    "url": "com.dts.freefireth",
+    "icon": "com.dts.freefireth",
+    "name": "com.dts.freefireth",
+    "creator": "https://github.com/Visnalize/resources/issues/9923"
   }
 ]
