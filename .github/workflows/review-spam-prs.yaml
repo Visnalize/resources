@@ -55,7 +55,7 @@ jobs:
                 method: 'POST',
                 headers: {
                   'Content-Type': 'application/json',
-                  'Authorization': 'Bearer ' + process.env.GH_TOKEN,
+                  'Authorization': 'Bearer ' + process.env.MODELS_TOKEN,
                 },
                 body: JSON.stringify({
                   model: 'gpt-4o-mini',
