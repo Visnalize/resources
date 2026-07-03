@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_robloc",
+    "url": "https://github.com/Visnalize/resources/issues/new?template=suggest-game.yaml",
+    "icon": "https://github.com/Visnalize/resources/issues/new?template=suggest-game.yaml//:url",
+    "name": "Robloc",
+    "creator": "David bazuca"
   }
 ]
