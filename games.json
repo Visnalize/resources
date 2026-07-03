@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_3d_pinballs_ms",
+    "url": "https://dos.zone/microsoft-3d-pinball-space-cadet/",
+    "icon": "https://i.postimg.cc/d0kGssXg/dezt76w-34dad4a4-76b8-4062-a414-2eb1caf47d8d.png",
+    "name": "3D Pinballs MS",
+    "creator": "Cinematronics"
   }
 ]
