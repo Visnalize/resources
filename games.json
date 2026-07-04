@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_new_game",
+    "url": "stealth game",
+    "icon": "stealth game",
+    "name": "New game",
+    "creator": "Gt a5 game"
   }
 ]
