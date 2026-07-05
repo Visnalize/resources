@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_tic_tac_toe",
+    "url": "https://tttgame.oneapp.dev",
+    "icon": "https://photos.app.goo.gl/AKci8Ja9QGjMdr4B7",
+    "name": "Tic tac toe",
+    "creator": "ZianBD"
   }
 ]
