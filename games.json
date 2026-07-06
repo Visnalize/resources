@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_knn",
+    "url": "Sunil",
+    "icon": "o6g-A70m1U1L-ZM",
+    "name": "Knn",
+    "creator": "Kji"
   }
 ]
