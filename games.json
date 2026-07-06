@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_fc_mobile_26",
+    "url": "Fc mobile 26",
+    "icon": "Fc mobile 26",
+    "name": "Fc mobile 26",
+    "creator": "Fc mobile"
   }
 ]
