@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_poki",
+    "url": "Source: Poki https://share.google/so0UubnzSKipCh58W",
+    "icon": "Source: Poki https://share.google/so0UubnzSKipCh58W",
+    "name": "Poki",
+    "creator": "Poki"
   }
 ]
