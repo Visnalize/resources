@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_abjite_das",
+    "url": "Shiva das",
+    "icon": "Amit das",
+    "name": "Abjite das",
+    "creator": "Rahul das"
   }
 ]
