@@ -12,12 +12,13 @@ jobs:
       pull-requests: write
       issues: write
       contents: read
+      models: read
 
     steps:
       - name: Review and reject spam PRs using Copilot
         uses: actions/github-script@v7
         env:
-          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           script: |
             const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -217,40 +218,47 @@ jobs:
                 `Author: ${pr.user.login}`,
               ].join('\n');
 
-              const response = await fetch('https://models.inference.ai.azure.com/chat/completions', {
-                method: 'POST',
-                headers: {
-                  'Content-Type': 'application/json',
-                  'Authorization': 'Bearer ' + process.env.MODELS_TOKEN,
-                },
-                body: JSON.stringify({
-                  model: 'gpt-4o-mini',
-                  messages: [
-                    {
-                      role: 'system',
-                      content: [
-                        'You are a spam detector for a GitHub repository that stores game resources',
-                        '(game URLs, icons, names, and creators) for Win7 Simu.',
-                        'Determine whether a pull request is spam, gibberish, or clearly low-quality.',
-                        'A PR is spam if any of the following apply:',
-                        '- The title or body is gibberish, random characters, or makes no sense',
-                        '- It is an obvious test, joke, or troll PR',
-                        '- The content is completely unrelated to adding or updating game resources',
-                        '- It contains promotional, offensive, or clearly irrelevant content',
-                        'Respond with ONLY a valid JSON object:',
-                        '{"isSpam": true, "reason": "brief explanation"}',
-                        'or {"isSpam": false, "reason": "looks legitimate"}',
-                      ].join(' '),
-                    },
-                    {
-                      role: 'user',
-                      content: prContent,
-                    },
-                  ],
-                  max_tokens: 150,
-                  temperature: 0,
-                }),
-              });
+              let response;
+              try {
+                response = await fetch('https://models.github.ai/inference/chat/completions', {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': 'Bearer ' + process.env.MODELS_TOKEN,
+                  },
+                  body: JSON.stringify({
+                    model: 'openai/gpt-4o-mini',
+                    messages: [
+                      {
+                        role: 'system',
+                        content: [
+                          'You are a spam detector for a GitHub repository that stores game resources',
+                          '(game URLs, icons, names, and creators) for Win7 Simu.',
+                          'Determine whether a pull request is spam, gibberish, or clearly low-quality.',
+                          'A PR is spam if any of the following apply:',
+                          '- The title or body is gibberish, random characters, or makes no sense',
+                          '- It is an obvious test, joke, or troll PR',
+                          '- The content is completely unrelated to adding or updating game resources',
+                          '- It contains promotional, offensive, or clearly irrelevant content',
+                          'Respond with ONLY a valid JSON object:',
+                          '{"isSpam": true, "reason": "brief explanation"}',
+                          'or {"isSpam": false, "reason": "looks legitimate"}',
+                        ].join(' '),
+                      },
+                      {
+                        role: 'user',
+                        content: prContent,
+                      },
+                    ],
+                    max_tokens: 150,
+                    temperature: 0,
+                  }),
+                });
+              } catch (e) {
+                console.error(`Failed to reach GitHub Models API for PR #${pr.number}: ${e.message}`);
+                continue;
+              }
 
               if (!response.ok) {
                 console.error(`Failed to analyze PR #${pr.number}: ${response.status} ${response.statusText}`);
