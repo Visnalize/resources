@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_skribbl",
+    "url": "https://skribbl.io/",
+    "icon": "https://www.google.com/search?client=ms-android-vivo-rvo2&hs=CKAq&sca_esv=8ca67e5d7398939f&sxsrf=APpeQnsQ0Cy3zzS9RENfWnjvsXdSO8p0Rw:1782730020817&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwIgLtPdGtXl-1ukUntONsOMkLK8Wjg5QbsFQsyTdBlDyIWYhgxyDNTy0wPRmWscMhW-e30JYvX5douhJl5AhpKLNtWhjP0SryRLm-oyljT2pq6gE9Er_GcczoLp8pIB-cmvCIMj4x-dQgEIKH6_R7Rb6bNAHw&q=skribbl+image&sa=X&ved=2ahUKEwiF3vvsoqyVAxWzSGwGHQcnLUcQtKgLegQIHhAB&biw=455&bih=920&dpr=1.58#sv=CAMSVxoyKhBlLWlVMWM4a21DYmVYdzJNMg5pVTFjOGttQ2JlWHcyTToOd0QyWXBseC1CeWdDek0gBCoXCgFzEhBlLWlVMWM4a21DYmVYdzJNGAEwAUoECAEQAhgHILbs664JSggQAhgBIAIoAQ",
+    "name": "Skribbl",
+    "creator": "ticedev"
   }
 ]
