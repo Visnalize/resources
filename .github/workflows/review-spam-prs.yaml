@@ -43,41 +43,50 @@ jobs:
             };
 
             const rejectPr = async (pr, reason) => {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: pr.number,
-                body: [
-                  '🤖 This pull request has been automatically identified as spam or low-quality',
-                  'content and is being closed.',
-                  '',
-                  `**Reason:** ${reason}`,
-                  '',
-                  'If you believe this is a mistake, please open a new pull request with a',
-                  'clear description of your changes.',
-                ].join('\n'),
-              });
+              try {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number,
+                  body: [
+                    '🤖 This pull request has been automatically identified as spam or low-quality',
+                    'content and is being closed.',
+                    '',
+                    `**Reason:** ${reason}`,
+                    '',
+                    'If you believe this is a mistake, please open a new pull request with a',
+                    'clear description of your changes.',
+                  ].join('\n'),
+                });
 
-              await github.rest.pulls.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.number,
-                state: 'closed',
-              });
+                await github.rest.pulls.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: pr.number,
+                  state: 'closed',
+                });
 
-              console.log(`Closed PR #${pr.number} as spam: ${reason}`);
+                console.log(`Closed PR #${pr.number} as spam: ${reason}`);
+              } catch (e) {
+                console.error(`Failed to close PR #${pr.number}: ${e.message}`);
+                return;
+              }
 
               const issueMatch = (pr.body || '').match(/Close\s+#(\d+)/i);
               if (issueMatch) {
                 const issueNumber = parseInt(issueMatch[1], 10);
-                await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issueNumber,
-                  state: 'closed',
-                  state_reason: 'not_planned',
-                });
-                console.log(`Closed linked issue #${issueNumber} for PR #${pr.number}.`);
+                try {
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issueNumber,
+                    state: 'closed',
+                    state_reason: 'not_planned',
+                  });
+                  console.log(`Closed linked issue #${issueNumber} for PR #${pr.number}.`);
+                } catch (e) {
+                  console.error(`Failed to close linked issue #${issueNumber} for PR #${pr.number}: ${e.message}`);
+                }
               }
             };
 
@@ -135,11 +144,17 @@ jobs:
 
               await sleep(3000);
 
-              const { data: files } = await github.rest.pulls.listFiles({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.number,
-              });
+              let files;
+              try {
+                ({ data: files } = await github.rest.pulls.listFiles({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: pr.number,
+                }));
+              } catch (e) {
+                console.error(`Failed to list files for PR #${pr.number}, skipping: ${e.message}`);
+                continue;
+              }
 
               // --- Rule-based checks on games.json changes ---
               const gamesJsonFile = files.find(f => f.filename === 'games.json');
@@ -199,11 +214,17 @@ jobs:
                   }
 
                   // Check if the PR was already closed by a rule above
-                  const { data: updatedPr } = await github.rest.pulls.get({
-                    owner: context.repo.owner,
-                    repo: context.repo.repo,
-                    pull_number: pr.number,
-                  });
+                  let updatedPr;
+                  try {
+                    ({ data: updatedPr } = await github.rest.pulls.get({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      pull_number: pr.number,
+                    }));
+                  } catch (e) {
+                    console.error(`Failed to get updated status for PR #${pr.number}, skipping: ${e.message}`);
+                    continue;
+                  }
                   if (updatedPr.state === 'closed') continue;
                 }
               }
@@ -287,12 +308,16 @@ jobs:
                 await rejectPr(pr, analysis.reason);
               } else {
                 // Mark as reviewed so subsequent runs skip this PR
-                await github.rest.issues.addLabels({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: pr.number,
-                  labels: [REVIEWED_LABEL],
-                });
-                console.log(`PR #${pr.number} passed review. Added '${REVIEWED_LABEL}' label.`);
+                try {
+                  await github.rest.issues.addLabels({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: pr.number,
+                    labels: [REVIEWED_LABEL],
+                  });
+                  console.log(`PR #${pr.number} passed review. Added '${REVIEWED_LABEL}' label.`);
+                } catch (e) {
+                  console.error(`Failed to add '${REVIEWED_LABEL}' label to PR #${pr.number}: ${e.message}`);
+                }
               }
             }
