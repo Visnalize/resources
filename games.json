@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_vk_com_my_metal_family",
+    "url": "https://vk.com/my_metal_family",
+    "icon": "https://vk.com/my_metal_family",
+    "name": "https://vk.com/my_metal_family",
+    "creator": "zxhfgxyb"
   }
 ]
