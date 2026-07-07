@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_forza_horizon_5_world",
+    "url": "Forza",
+    "icon": "Horizon",
+    "name": "Forza horizon 5 world",
+    "creator": "Maiden double tap on pg"
   }
 ]
