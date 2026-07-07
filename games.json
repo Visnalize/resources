@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_https_www_magnific_com",
+    "url": "https://www.giochi.it",
+    "icon": "https://zelda.fandom.com",
+    "name": "https://www.magnific.com",
+    "creator": "https://Accademia delle Arti.it"
   }
 ]
