@@ -177,5 +177,12 @@
     "icon": "https://cdn.frvr.com/2021/icons/192/puttrush.webp?9",
     "name": "Putt Rush FRVR",
     "creator": "FRVR"
+  },
+  {
+    "id": "game_doodle_pac_man",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pacman.svg",
+    "name": "Doodle PAC-MAN",
+    "creator": "Google"
   }
 ]
