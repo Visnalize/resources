@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game__my_super_adventure_cricket_master_field_can_not_be_empty_ex_my_awesome_game",
+    "url": "https://your-game-link.com",
+    "icon": "https://yourwebsite.com",
+    "name": "क्या डालें: आप जो भी गेम बना रहे हैं या जिसके लिए यह फॉर्म भर रहे हैं, उसका एक अच्छा सा नाम यहाँ लिखें। जैसे: My Super Adventure या Cricket Master.लाल रंग की चेतावनी: नीचे लिखा है Field can not be empty, इसका मतलब है कि यह हिस्सा भरना अनिवार्य है। जब तक आप यहाँ कुछ लिखेंगे नहीं, आप आगे नहीं बढ़ पाएंगे।उदाहरण: बॉक्स के अंदर धुंधले अक्षरों में ex. My Awesome Game लिखा है, जो बस आपको समझाने के लिए एक उदाहरण है।संक्षेप में: बस अपने गेम का नाम टाइप करें और लाल रंग की चेतावनी हट जाएगी।",
+    "creator": "डेवलपर का नाम: (जैसे- Mojang, Rockstar Games, या किसी व्यक्ति का नाम)आपका अपना नाम: अगर यह गेम आपने खुद बनाया है।यहाँ लाल रंग का तारा (*) दर्शाता है कि यह जानकारी भरना अनिवार्य (जरूरी) है।"
   }
 ]
