@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_stickman_airship_game",
+    "url": "https://www.crazygames.com/game/infiltrating-the-airship",
+    "icon": "https://imgs.crazygames.com/games/infiltrating-the-airship/cover-1657131592753.png?metadata=none&quality=85&width=196&dpr=1",
+    "name": "Stickman Airship Game",
+    "creator": "PuffBalls United"
   }
 ]
