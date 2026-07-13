@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_arbus",
+    "url": "https://www.gamezop.com/ru/game/d184d180d183d0bad182d0bed0b2d0b0d18f-d184d0b8d0b5d181d182d0b0/mKZZW9NXW",
+    "icon": "https://yandex.ru/images/touch/search?text=%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%8F%D1%88%D0%BD%D1%8B%D0%B9+%D0%B0%D1%80%D0%B1%D1%83%D0%B7%D0%B8%D0%BA&img_url=https%3A%2F%2Fyt3.googleusercontent.com%2FrDZwObVM-ZF42NFBTBmmTFxhbsU8j_ZtQ0LIUdA30VqeTZ58hdjvUr7KAtpunb7ivbbv_iS952g%3Ds900-c-k-c0x00ffffff-no-rj&pos=5&rpt=simage&parent-reqid=1783969418664311-10191703983304466575-balancer-l7leveler-kubr-yp-sas-40-BAL&app_version=26060201&source=serp",
+    "name": "Arbus",
+    "creator": "KTOTO"
   }
 ]
