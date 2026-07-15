@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_https_bully_anniversary_edition_ar_uptodown_com_android",
+    "url": "https://bully-anniversary-edition.ar.uptodown.com/android",
+    "icon": "https://bully-anniversary-edition.ar.uptodown.com/android",
+    "name": "https://bully-anniversary-edition.ar.uptodown.com/android",
+    "creator": "Bully"
   }
 ]
