@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_phys",
+    "url": "https://websim.com/@number404/phys-interactive-logo",
+    "icon": "https://api.websim.com/blobs/019f6339-679d-715f-8eb1-d4b9051342c6.jpg",
+    "name": "PHYS",
+    "creator": "NICK"
   }
 ]
