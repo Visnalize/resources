@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_pou_online",
+    "url": "https://www.msn.com/pt-br/play/games/pou/cg-9n93153t16j5?PC=EMMX01",
+    "icon": "https://www.msn.com/pt-br/play/games/pou/cg-9n93153t16j5?PC=EMMX01",
+    "name": "Pou Online",
+    "creator": "Misael Gérson Lima Dos Santos"
   }
 ]
