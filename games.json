@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_classic_snake_pro",
+    "url": "https://yourname.github.io/snake-game/",
+    "icon": "https://yourname.github.io/snake-game/icon.png",
+    "name": "Classic Snake Pro",
+    "creator": "Cha TV Channel"
   }
 ]
