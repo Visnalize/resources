@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_granny",
+    "url": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
+    "icon": "https://static.wikia.nocookie.net/granny/images/e/ee/Grannyicon.png/revision/latest?cb=20190315152127",
+    "name": "Granny",
+    "creator": "DVloper"
   }
 ]
