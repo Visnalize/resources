@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_appuyez_de_mani_re_prolong_e_sur_un_l_ment_pour_l_pingler_les_l_ments_retir_s_seront_supprim_s_au_bout_dune_heure",
+    "url": "Bienvenue dans le presse-papiers Gboard. Le texte que vous copiez est enregistré ici.",
+    "icon": "Appuyez sur un élément pour le coller dans le champ de texte.",
+    "name": "Appuyez de manière prolongée sur un élément pour lépingler. Les éléments retirés seront supprimés au bout dune heure.",
+    "creator": "Fghkk"
   }
 ]
