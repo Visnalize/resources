@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_standoff_2_v2",
+    "url": "standoff 2 V2",
+    "icon": "V2",
+    "name": "standoff 2 V2",
+    "creator": "rik rtkol"
   }
 ]
