@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_gym_simulator_24",
+    "url": "Gym Simulator 24",
+    "icon": "Gym Simulator 24",
+    "name": "Gym Simulator 24",
+    "creator": "Gym Simulator 24"
   }
 ]
