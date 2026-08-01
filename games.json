@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_https_www_bluestacks_com_th_apps_action_free_fire_battlegrounds_on_pc_html_hl_th_th",
+    "url": "https://www.bluestacks.com/th/apps/action/free-fire-battlegrounds-on-pc.html?hl=th-TH",
+    "icon": "https://www.bluestacks.com/th/apps/action/free-fire-battlegrounds-on-pc.html?hl=th-TH",
+    "name": "https://www.bluestacks.com/th/apps/action/free-fire-battlegrounds-on-pc.html?hl=th-TH",
+    "creator": "https://www.bluestacks.com/th/apps/action/free-fire-battlegrounds-on-pc.html?hl=th-TH"
   }
 ]
