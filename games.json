@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_driving",
+    "url": "from ursina import * from ursina.prefabs.first_person_controller import FirstPersonController # Initialize the game window app = Ursina() # --- SCENE SETUP --- # Create a large ground (City Block) ground = Entity( model=plane, scale=(100, 1, 100), color=color.dark_gray, texture=white_cube ) # Add some simple buildings (Obstacles) buildings = [] for x in range(-40, 40, 10): for z in range(-40, 40, 10): if abs(x) > 5 or abs(z) > 5: # Leave center open h = random.uniform(5, 15) b = Entity( model=cube, position=(x, h/2, z), scale=(6, h, 6), color=color.light_gray, collider=box ) buildings.append(b) # --- PLAYER --- # First-person controller acts as our pedestrian player = FirstPersonController() player.cursor.visible = True player.y = 2 player.speed = 10 # Add a simple text UI info_text = Text( text=Use WASD to Move, SPACE to Jump, MOUSE to Look around., position=(-0.5, 0.45), scale=1, color=color.yellow ) # Run the game app.run()",
+    "icon": "from ursina import * from ursina.prefabs.first_person_controller import FirstPersonController # Initialize the game window app = Ursina() # --- SCENE SETUP --- # Create a large ground (City Block) ground = Entity( model=plane, scale=(100, 1, 100), color=color.dark_gray, texture=white_cube ) # Add some simple buildings (Obstacles) buildings = [] for x in range(-40, 40, 10): for z in range(-40, 40, 10): if abs(x) > 5 or abs(z) > 5: # Leave center open h = random.uniform(5, 15) b = Entity( model=cube, position=(x, h/2, z), scale=(6, h, 6), color=color.light_gray, collider=box ) buildings.append(b) # --- PLAYER --- # First-person controller acts as our pedestrian player = FirstPersonController() player.cursor.visible = True player.y = 2 player.speed = 10 # Add a simple text UI info_text = Text( text=Use WASD to Move, SPACE to Jump, MOUSE to Look around., position=(-0.5, 0.45), scale=1, color=color.yellow ) # Run the game app.run()",
+    "name": "Driving",
+    "creator": "Rayaan"
   }
 ]
