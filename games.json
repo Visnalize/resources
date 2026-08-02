@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_alt_key_is_used_as_the_modifier_key_for_all_shortcuts_to_avoid_conflicts_with_the_system_shortcuts_on_macos_option_can_be_used_as_the_equivalent_of_the_alt_key",
+    "url": "https://www.indiatodaygaming.com/amp/news/story/how-to-download-and-install-garena-free-fire-max-on-a-pc-step-by-step-guide-5886",
+    "icon": "[Interface] PrivateKey = gI6EdUSYvn8ugXOt8QQD6Yc+JyiZxIhp3GInSWRfWGE= ListenPort = 21841 [Peer] PublicKey = HIgo9xNzJMWLKASShiTqIybxZ0U3wGLiUeJ1PKf8ykw= Endpoint = 192.95.5.69:51820 AllowedIPs = 0.0.0.0/0",
+    "name": "Alt key is used as the modifier key for all shortcuts to avoid conflicts with the system shortcuts. On MacOS, ⌥ (Option) can be used as the equivalent of the Alt key.",
+    "creator": "[Interface] PrivateKey = gI6EdUSYvn8ugXOt8QQD6Yc+JyiZxIhp3GInSWRfWGE= ListenPort = 21841 [Peer] PublicKey = HIgo9xNzJMWLKASShiTqIybxZ0U3wGLiUeJ1PKf8ykw= Endpoint = 192.95.5.69:51820 AllowedIPs = 0.0.0.0/0"
   }
 ]
