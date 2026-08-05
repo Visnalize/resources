@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_https_www_facebook_com_share_1jhrxtakbz",
+    "url": "https://www.facebook.com/share/1ER5LYNFWA/",
+    "icon": "https://www.facebook.com/share/1JhRXtAKBZ/",
+    "name": "https://www.facebook.com/share/1JhRXtAKBZ/",
+    "creator": "https://www.facebook.com/share/1JhRXtAKBZ/"
   }
 ]
