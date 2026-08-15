@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_up",
+    "url": "https://play.google.com/store/apps/details?id=com.football.soccer.league",
+    "icon": "https://drive.google.com/file/d/1k9sMdUyUYqiYVoCfkNM-RS0Z49XL6lv5/view?usp=drivesdk",
+    "name": "Up",
+    "creator": "G."
   }
 ]
