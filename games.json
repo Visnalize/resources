@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_https_www_izzygames_com_sim_taxi_2_t3245_html",
+    "url": "https://www.izzygames.com/sim-taxi-2-t3245.html",
+    "icon": "https://www.izzygames.com/sim-taxi-2-t3245.html",
+    "name": "https://www.izzygames.com/sim-taxi-2-t3245.html",
+    "creator": "https://www.izzygames.com/sim-taxi-2-t3245.html"
   }
 ]
