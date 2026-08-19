@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_stabfish_io",
+    "url": "https://stabfish.io/",
+    "icon": "https://www.bing.com/images/search?view=detailV2&ccid=jERTfDh5&id=F42D553D2B3667AEBF79AAED4DF5E83C4E1E0A76&thid=OIP.jERTfDh5csa5F-W0VqnpMwHaD4&mediaurl=https%3a%2f%2fimgs.crazygames.com%2fstabfish2-io-multiplayer_16x9%2f20250108041122%2fstabfish2-io-multiplayer_16x9-cover%3fmetadata%3dnone%26quality%3d40%26width%3d1200%26height%3d630%26fit%3dcrop&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8c44537c387972c6b917e5b456a9e933%3frik%3ddgoeTjzo9U3tqg%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=stabfish+logo&mode=overlay&FORM=IQFRBA&ck=7F09EB30853AE0C641AABC166A911252&selectedIndex=0&idpp=serp",
+    "name": "stabfish io",
+    "creator": "me"
   }
 ]
