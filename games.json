@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_fnf_mods",
+    "url": "https://www.google.com/search?q=mods+fnf+mobile&oq=mods+fnf+mobile&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARBFGCcYOzIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgYICBBFGDwyBwgJEAAYgAQyBwgKEAAYgAQyBwgLEAAYgAQyBwgMEAAYgAQyBwgNEAAYgAQyBwgOEAAYgATSAQgzNDI4ajBqOagCDrACAfEFi6_199BXRHzxBYuv9ffQV0R8&client=ms-android-xiaomi-rvo3&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8",
+    "icon": "https://kommodo.ai/i/Dlenky3ZJi38Q15l5eZP",
+    "name": "Fnf mods",
+    "creator": "By jeremy"
   }
 ]
