@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_cars_fast_as_lightning",
+    "url": "Microsoft.VCLibs.120.00_12.0.21005.1_arm__8wekyb3d8bbwe.Appx",
+    "icon": "com.gameloft.android.ANMP.GloftCAHM",
+    "name": "Cars fast as lightning",
+    "creator": "gameloft"
   }
 ]
