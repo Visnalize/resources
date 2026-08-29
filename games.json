@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_super_benny_man",
+    "url": "SuperBennyman.com.br",
+    "icon": "www. super banny Man. Com .br",
+    "name": "Super Benny man",
+    "creator": "José Carlos Ferreira dos Santos"
   }
 ]
