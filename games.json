@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_grand_prix_tycoon",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kbhgames.com/game/grand-prix-tycoon&ved=2ahUKEwjqkr6EqNWWAxX12wIHHbCEOvwQFnoECEQQAQ&sqi=2&usg=AOvVaw0nHiv5urZy_95Oq51mbYPg",
+    "icon": "https://www2.minijuegosgratis.com/v3/games/thumbnails/12443_1.jpg",
+    "name": "Grand Prix Tycoon",
+    "creator": "Mousebreaker"
   }
 ]
