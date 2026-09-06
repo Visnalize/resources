@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_sonic",
+    "url": "https://www.minijogos.com.br/jogo/sonic",
+    "icon": "https://www1.minijuegosgratis.com/v3/games/thumbnails/229672_7_sq.jpg",
+    "name": "Sonic",
+    "creator": "Minijuegos"
   }
 ]
