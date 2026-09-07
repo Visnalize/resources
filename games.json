@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_dino",
+    "url": "chrome://dino/",
+    "icon": "https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=aCvV&sca_esv=1ac1f6a280dabaf0&sxsrf=APpeQns0--DmaXMy39RVwXwkY8LbyJnfGQ:1788775163801&udm=2&fbs=ABfTbFVcPxXq9DlthUSRyckwdC12jmzXnD4E_7AEw9Xiniviv0CC2ai7f-v9lpEh7GZ4J-6oCepGmFObyTf8-bU9WXlXn-jc_yK09y9SKfN3AGsQikhmXx6C5M0uqy29qY0MwMQVEfJapUUQZ1NpZC-6K6voQpi8Bl05UTqpkkldjqGnolpMfwOFZvuu1f0RtNMUiNR1mUpkCLoDnXpl-cEAbl3Q-HLdQWLDD-1gogKzx_MS7fYghdNCxoDwpkoQ3aOYPCVETkLMZtI1h3BnAeSEIIWIJVMwxA&q=dino&sa=X&ved=2ahUKEwi8oeLhmtyWAxWCGhAIHel2PHMQtKgLegQIGRAB&biw=392&bih=753&dpr=2.75#sv=CAMSVxoyKhBlLUxJMTNyTmV6NHdadWxNMg5MSTEzck5lejR3WnVsTToOUTVMVXNlYWllUTBKak0gBCoXCgFzEhBlLUxJMTNyTmV6NHdadWxNGAEwAUoECAEQAhgHIJidpBFKCBACGAEgAigB",
+    "name": "Dino",
+    "creator": "Google"
   }
 ]
