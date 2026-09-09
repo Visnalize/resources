@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_talking_gina_the_giraffe_pro_2_0",
+    "url": "https://archive.org/details/01402-talking-gina-the-giraffe-v-1-2-4_202212",
+    "icon": "https://static.wikia.nocookie.net/outfit7talkingfriends/images/b/b2/Talking_Gina_App_Icon_29.webp/revision/latest?cb=20221110174621",
+    "name": "Talking Gina The Giraffe Pro 2.0",
+    "creator": "Outfit7"
   }
 ]
