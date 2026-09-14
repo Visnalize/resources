@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_alphabet_lore_sandbox",
+    "url": "https://websim.com/@Jamesadesina03/alphabet-lore-sandbox",
+    "icon": "file:///C:/Users/newma/Downloads/The%20SAD%20STORY%20of%20SPRUNKI%20MUSTARD...%20(Cartoon%20Animation)%2013-36%20screenshot%20(1).png",
+    "name": "Alphabet Lore Sandbox",
+    "creator": "@Jamesadesina03"
   }
 ]
