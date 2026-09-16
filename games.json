@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_eagler_craft",
+    "url": "https://play.rantey.com/1.12.2/?username=kendry2023k",
+    "icon": "<img src=blob:chrome-untrusted://media-app/97f88e0f-f57a-49f5-9bb8-b49bc25e076d alt=noFilter.webp/>",
+    "name": "eagler craft",
+    "creator": "unknown"
   }
 ]
