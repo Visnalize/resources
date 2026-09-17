@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_the_rising_of_the_shield_hero",
+    "url": "https://game.example.com",
+    "icon": "https://...jpg/png",
+    "name": "The Rising of the Shield Hero",
+    "creator": "Uttam"
   }
 ]
