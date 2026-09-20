@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_https_classpad_anhvlt_io_vn_index_html_model_ey023",
+    "url": "https://classpad.anhvlt.io.vn/index.html?model=EY023",
+    "icon": "https://classpad.anhvlt.io.vn/index.html?model=EY023",
+    "name": "https://classpad.anhvlt.io.vn/index.html?model=EY023",
+    "creator": "https://classpad.anhvlt.io.vn/index.html?model=EY023"
   }
 ]
