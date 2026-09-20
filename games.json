@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_kiss_kiss_spin_the_bottle",
+    "url": "Getkisskiss.in",
+    "icon": "Getkisskiss.in",
+    "name": "Kiss kiss spin the bottle",
+    "creator": "Recently Updated"
   }
 ]
