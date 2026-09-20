@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_password_https_github_com_login_text_users_guest_desktop_password_forgot_20password_3f",
+    "url": "Password https://github.com/login#:~:text=Users/Guest/Desktop-,Password,-Forgot%20password%3F",
+    "icon": "Password https://github.com/login#:~:text=Users/Guest/Desktop-,Password,-Forgot%20password%3F",
+    "name": "Password https://github.com/login#:~:text=Users/Guest/Desktop-,Password,-Forgot%20password%3F",
+    "creator": "Password https://github.com/login#:~:text=Users/Guest/Desktop-,Password,-Forgot%20password%3F"
   }
 ]
