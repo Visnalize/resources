@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_flappy_bird",
+    "url": "https://flappy-bird-clone-browser-game.vercel.app/",
+    "icon": "https://raw.githubusercontent.com/talpitoo/flappy-bird-clone-browser-game/main/flappybird_original_icon_256.png",
+    "name": "Flappy Bird",
+    "creator": "Dong Nguyen"
   }
 ]
