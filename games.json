@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_instagram",
+    "url": "https://www.instagram.com/",
+    "icon": "https://www.google.com/search?q=instagram+logo&rlz=1CASTQV_enSV1234&oq=instagram+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ0OTBqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8&safe=active&ssui=on#sv=CAMSaRowKg5SRWpOZm5BcHJYcFZaTTIOUkVqTmZuQXByWHBWWk06DmhEYTNsMHZXa1p2bzdNIAQqLwobX09VN0Vhb09oRjZuY3dONFBxT21OaUFjXzY3Eg5SRWpOZm5BcHJYcFZaTRgAMAFQBRgHIOa23rgGSggQAhgBIAIoAQ",
+    "name": "Instagram",
+    "creator": "Jonathan"
   }
 ]
