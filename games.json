@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_lakhan",
+    "url": "https://www.google.com/url?opi=89978449&q=https://play.google.com/store/apps/details%3Fid%3Dcom.dts.freefireth%26hl%3Den%26inline%3Dtrue%26auao%3Dtrue%26enifd%3DAF8f-acbjZZPXQ1x0BnsUsdJNv4sVwpAtdpkg1OVUbp9dxGHfn2Zvs9MY5S6X6Lv7eddRXaBy29hJQzlGr2BI3ZdBmkmctQ0RNHPeKseKJvFngrz6mbrXAnNHnG9YuD3q0_eufF3onWc%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dfree%2Bfire%26pcampaignid%3DAPPU_2_Y_3IauuqCLOd4-EP_6zY2As&sa=U&sqi=2&ved=2ahUKEwir6Ifjla2XAxWzzjgGHX8WFrsQiYoBegQIFBAC&usg=AOvVaw3QU_QtIFZrV3YhZ_Ss1Eec",
+    "icon": "https://www.google.com/url?opi=89978449&q=https://play.google.com/store/apps/details%3Fid%3Dcom.dts.freefireth%26hl%3Den%26inline%3Dtrue%26auao%3Dtrue%26enifd%3DAF8f-acbjZZPXQ1x0BnsUsdJNv4sVwpAtdpkg1OVUbp9dxGHfn2Zvs9MY5S6X6Lv7eddRXaBy29hJQzlGr2BI3ZdBmkmctQ0RNHPeKseKJvFngrz6mbrXAnNHnG9YuD3q0_eufF3onWc%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dfree%2Bfire%26pcampaignid%3DAPPU_2_Y_3IauuqCLOd4-EP_6zY2As&sa=U&sqi=2&ved=2ahUKEwir6Ifjla2XAxWzzjgGHX8WFrsQiYoBegQIFBAC&usg=AOvVaw3QU_QtIFZrV3YhZ_Ss1Eec",
+    "name": "Lakhan",
+    "creator": "Lakhan"
   }
 ]
