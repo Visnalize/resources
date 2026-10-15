@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_desmos",
+    "url": "https://www.desmos.com/?lang=ru",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyV_wETDe1QiM6Uf2atcdXIntQVdmBg39qCoqDZOGgQ&s=10",
+    "name": "desmos",
+    "creator": "scincer"
   }
 ]
