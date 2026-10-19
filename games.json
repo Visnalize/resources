@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_sonic_forces",
+    "url": "https://gamehub-service.xiaoji.com/v2/gameDetail/shareH5?lang=en",
+    "icon": "https://gamehub-service.xiaoji.com/v2/gameDetail/shareH5?lang=en",
+    "name": "Sonic forces",
+    "creator": "Sega"
   }
 ]
