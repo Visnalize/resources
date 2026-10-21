@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_tap_on_a_clip_to_paste_it_in_the_text_box",
+    "url": "https://www.xbox.com/en-US/games/where-winds-meet",
+    "icon": "Use the edit icon to pin, add or delete clips.",
+    "name": "Tap on a clip to paste it in the text box.",
+    "creator": "Welcome to Gboard clipboard, any text you copy will be saved here."
   }
 ]
