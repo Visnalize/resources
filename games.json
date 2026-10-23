@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_logoremakefour",
+    "url": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://logoremakefour1530.github.io&ved=2ahUKEwjSke6On-mWAxVbPbkGHfKDFzYQy_kOegYIAAgGEAI&opi=89978449&cd&psig=AOvVaw1piwm3jEfo2I6WWjV2QsXw&ust=1789309408738000&app=false",
+    "icon": "https://www.gstatic.com/logoremakefour1530.github.io/favicon.ico?url=https%3A%2F%2Flogoremakefour1530.github.io%2Ffavicon.ico",
+    "name": "LogoRemakeFour",
+    "creator": "HDN"
   }
 ]
