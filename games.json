@@ -184,5 +184,12 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marbleblast.vaniverse.io/index.html?app=true&size=256",
     "name": "Marble Blast Web",
     "creator": "Vanilagy"
+  },
+  {
+    "id": "game_y",
+    "url": "E",
+    "icon": "https://static.klipy.com/ii/d7aec6f6f171607374b2065c836f92f4/7b/16/UOqdxYNY.gif",
+    "name": "Y",
+    "creator": "David vSu"
   }
 ]
